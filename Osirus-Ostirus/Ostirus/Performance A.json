@@ -1,0 +1,106 @@
+{
+	"Thustra HS" : 	{
+		"name" : "Thustra HS",
+		"bank_id" : 8,
+		"category" : "Pad",
+		"category_id" : 3,
+		"index" : 110
+	}
+,
+	"AndromdaHS" : 	{
+		"name" : "AndromdaHS",
+		"bank_id" : 8,
+		"category" : "Pad",
+		"category_id" : 3,
+		"index" : 0
+	}
+,
+	"Backing HS" : 	{
+		"name" : "Backing HS",
+		"bank_id" : 8,
+		"category" : "Pad",
+		"category_id" : 3,
+		"index" : 4
+	}
+,
+	"Cremoma HS" : 	{
+		"name" : "Cremoma HS",
+		"bank_id" : 8,
+		"category" : "Cat:19",
+		"category_id" : 19,
+		"index" : 19
+	}
+,
+	"DancePn HS" : 	{
+		"name" : "DancePn HS",
+		"bank_id" : 8,
+		"category" : "Cat:18",
+		"category_id" : 18,
+		"index" : 20
+	}
+,
+	"Dread-0 HS" : 	{
+		"name" : "Dread-0 HS",
+		"bank_id" : 8,
+		"category" : "Keys",
+		"category_id" : 5,
+		"index" : 25
+	}
+,
+	"DX-Pno1 HS" : 	{
+		"name" : "DX-Pno1 HS",
+		"bank_id" : 8,
+		"category" : "Cat:18",
+		"category_id" : 18,
+		"index" : 28
+	}
+,
+	"E-Grand HS" : 	{
+		"name" : "E-Grand HS",
+		"bank_id" : 8,
+		"category" : "Brass",
+		"category_id" : 7,
+		"index" : 32
+	}
+,
+	"Easter1 HS" : 	{
+		"name" : "Easter1 HS",
+		"bank_id" : 8,
+		"category" : "Arp",
+		"category_id" : 8,
+		"index" : 34
+	}
+,
+	"EkoRoad HS" : 	{
+		"name" : "EkoRoad HS",
+		"bank_id" : 8,
+		"category" : "Pluck",
+		"category_id" : 4,
+		"index" : 35
+	}
+,
+	"Expense HS" : 	{
+		"name" : "Expense HS",
+		"bank_id" : 8,
+		"category" : "Pad",
+		"category_id" : 3,
+		"index" : 37
+	}
+,
+	"Flutoon HS" : 	{
+		"name" : "Flutoon HS",
+		"bank_id" : 8,
+		"category" : "Lead",
+		"category_id" : 1,
+		"index" : 40
+	}
+,
+	"Froese HS" : 	{
+		"name" : "Froese HS",
+		"bank_id" : 8,
+		"category" : "Lead",
+		"category_id" : 1,
+		"index" : 41
+	}
+
+}
