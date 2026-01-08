@@ -18,8 +18,16 @@ This Max for Live device serves as a comprehensive Preset Manager for the **Osir
 
 *   **Dual Emulator Support**: Seamlessly works with both Osirus 2 and Ostirus instances.
 *   **Bank Browsing**: Navigate through all available preset banks (A-H) stored in JSON format.
-*   **Favorites System**: Mark and recall your go-to presets using the integrated Favorites feature.
+*   **Smart Navigation**: Use the on-screen **Up/Down arrows** to scroll through presets. These buttons are fully **mappable** to keyboard keys or MIDI controllers for hands-on control.
+*   **Favorites System**:
+    *   **Add/Remove**: Click the **Star icon** to add the selected preset to your favorites.
+    *   **Import/Export**: Save and share your favorite lists.
+    *   *Note*: Favorites lists must match the target plugin (Osirus 2 or Ostirus), just like the factory banks.
 *   **Preset Management**: View detailed preset information including name, category, and index.
+*   **Customizable Device Name**: Rename the device label as per your needs (e.g., "Bass Synth", "Lead"). This helps in organizing different instances of the device in your project.
+*   **Mixer Controls**:
+    *   **Volume**: Directly controls the plugin's volume via MIDI CC# 7.
+    *   **Pan**: Directly controls the plugin's panning via MIDI CC# 10.
 
 ## Installation
 
@@ -29,10 +37,13 @@ This Max for Live device serves as a comprehensive Preset Manager for the **Osir
 
 ## Usage
 
-1.  Drag and drop `PresetsManager.amxd` onto a MIDI Track in Ableton Live.
-2.  Click the **Load** button on the device interface.
-3.  Navigate to the `Osirus-Ostirus` folder and select the JSON bank file you wish to load.
-4.  The presets from that bank will now be available for browsing.
+1.  **Placement**: Drag and drop `PresetsManager.amxd` onto a MIDI Track in Ableton Live.
+    *   **Same Track**: Ideally, place it on the same track as the emulator plugin (before the instrument).
+    *   **Different Track**: If you place the device on a different track, you MUST set that track's **MIDI To** output to the track containing the Osirus/Ostirus plugin, and select the specific channel (usually **Track In** or **Channel 1**).
+2.  **Load Banks**: Click the **Load** button on the device interface.
+3.  **Select Correct Bank**: Navigate to the `Osirus-Ostirus` folder.
+    *   **Important**: Ensure you load a bank that corresponds to the emulator you are controlling. Use the `Osirus 2` subfolder for Osirus 2 and the `Ostirus` subfolder for Ostirus.
+4.  **Browse**: The presets from the loaded bank will now be available for browsing and selection.
 
 ## Structure
 
