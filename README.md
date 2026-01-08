@@ -4,6 +4,12 @@
 
 This Max for Live device serves as a comprehensive Preset Manager for the **Osirus 2** and **Ostirus** DSP emulators (Access Virus emulations). It provides an intuitive interface to browse, filter, and recall presets from the emulator's banks directly within Ableton Live, streamlining your workflow.
 
+![Presets Manager Preview](https://res.cloudinary.com/moodgiver/image/upload/v1767891939/device-preview_kud0am.png)
+
+
+> [!IMPORTANT]
+> **Only the VST2 version is supported and tested.** The VST3 format does not support MIDI Program Change messages, which are essential for this device to function correctly.
+
 ## Features
 
 *   **Dual Emulator Support**: Seamlessly works with both Osirus 2 and Ostirus instances.
