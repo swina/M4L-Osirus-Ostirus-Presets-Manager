@@ -1,0 +1,898 @@
+{
+  "64Degee MS": {
+    "name": "64Degee MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 0
+  },
+  "A.Pop   MS": {
+    "name": "A.Pop   MS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 1
+  },
+  "AcidChrdMS": {
+    "name": "AcidChrdMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 2
+  },
+  "Adagio  MS": {
+    "name": "Adagio  MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 3
+  },
+  "AirTonicMS": {
+    "name": "AirTonicMS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 4
+  },
+  "AmbulantMS": {
+    "name": "AmbulantMS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 2,
+    "index": 5
+  },
+  "Anubis  MS": {
+    "name": "Anubis  MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 6
+  },
+  "Atx BassMS": {
+    "name": "Atx BassMS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 7
+  },
+  "BabyloneMS": {
+    "name": "BabyloneMS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 8
+  },
+  "Bad Pop MS": {
+    "name": "Bad Pop MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 9
+  },
+  "BigBeat MS": {
+    "name": "BigBeat MS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 10
+  },
+  "BigPhaseMS": {
+    "name": "BigPhaseMS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 11
+  },
+  "BittBassMS": {
+    "name": "BittBassMS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 12
+  },
+  "Bomber  MS": {
+    "name": "Bomber  MS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 13
+  },
+  "Brasso  MS": {
+    "name": "Brasso  MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 14
+  },
+  "ButtrflyMS": {
+    "name": "ButtrflyMS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 15
+  },
+  "By Zero MS": {
+    "name": "By Zero MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 16
+  },
+  "Chapel  MS": {
+    "name": "Chapel  MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 17
+  },
+  "CharactrMS": {
+    "name": "CharactrMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 18
+  },
+  "CoderArpMS": {
+    "name": "CoderArpMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 19
+  },
+  "CoolChrdMS": {
+    "name": "CoolChrdMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 20
+  },
+  "CoderPadMS": {
+    "name": "CoderPadMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 21
+  },
+  "CreamPikMS": {
+    "name": "CreamPikMS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 2,
+    "index": 22
+  },
+  "CrysalisMS": {
+    "name": "CrysalisMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 23
+  },
+  "Cubus   MS": {
+    "name": "Cubus   MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 24
+  },
+  "CultOrgnMS": {
+    "name": "CultOrgnMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 25
+  },
+  "D-Phunk MS": {
+    "name": "D-Phunk MS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 26
+  },
+  "D50Lead MS": {
+    "name": "D50Lead MS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 27
+  },
+  "DarksideMS": {
+    "name": "DarksideMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 28
+  },
+  "DeepWeepMS": {
+    "name": "DeepWeepMS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 2,
+    "index": 29
+  },
+  "DirtBox MS": {
+    "name": "DirtBox MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 30
+  },
+  "DistPickMS": {
+    "name": "DistPickMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 31
+  },
+  "DromeCrdMS": {
+    "name": "DromeCrdMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 32
+  },
+  "DuskwoodMS": {
+    "name": "DuskwoodMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 33
+  },
+  "E-Lead  MS": {
+    "name": "E-Lead  MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 34
+  },
+  "FizzBizzMS": {
+    "name": "FizzBizzMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 35
+  },
+  "Flutex  MS": {
+    "name": "Flutex  MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 36
+  },
+  "Flutex2 MS": {
+    "name": "Flutex2 MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 37
+  },
+  "FM BoostMS": {
+    "name": "FM BoostMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 38
+  },
+  "ForgivenMS": {
+    "name": "ForgivenMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 39
+  },
+  "Freaks  MS": {
+    "name": "Freaks  MS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 40
+  },
+  "Frogger MS": {
+    "name": "Frogger MS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 2,
+    "index": 41
+  },
+  "FunkBassMS": {
+    "name": "FunkBassMS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 42
+  },
+  "FunkTripMS": {
+    "name": "FunkTripMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 43
+  },
+  "Gamelan MS": {
+    "name": "Gamelan MS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 44
+  },
+  "Genosis MS": {
+    "name": "Genosis MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 45
+  },
+  "GianaArpMS": {
+    "name": "GianaArpMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 46
+  },
+  "GlobalDJMS": {
+    "name": "GlobalDJMS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 47
+  },
+  "Go Rave!MS": {
+    "name": "Go Rave!MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 48
+  },
+  "Halo    MS": {
+    "name": "Halo    MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 49
+  },
+  "HappyVoxMS": {
+    "name": "HappyVoxMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 50
+  },
+  "HarakiriMS": {
+    "name": "HarakiriMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 51
+  },
+  "Haunted MS": {
+    "name": "Haunted MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 52
+  },
+  "HihatRunMS": {
+    "name": "HihatRunMS",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 2,
+    "index": 53
+  },
+  "HiScore MS": {
+    "name": "HiScore MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 54
+  },
+  "Holland MS": {
+    "name": "Holland MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 55
+  },
+  "Horror! MS": {
+    "name": "Horror! MS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 2,
+    "index": 56
+  },
+  "HyperSawMS": {
+    "name": "HyperSawMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 57
+  },
+  "HyperSqrMS": {
+    "name": "HyperSqrMS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 58
+  },
+  "J Halen MS": {
+    "name": "J Halen MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 59
+  },
+  "Jessel  MS": {
+    "name": "Jessel  MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 60
+  },
+  "KetamineMS": {
+    "name": "KetamineMS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 2,
+    "index": 61
+  },
+  "Lately  MS": {
+    "name": "Lately  MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 62
+  },
+  "Ligaya  MS": {
+    "name": "Ligaya  MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 63
+  },
+  "Linear  MS": {
+    "name": "Linear  MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 64
+  },
+  "LoFi SawMS": {
+    "name": "LoFi SawMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 65
+  },
+  "LoFi-WhaMS": {
+    "name": "LoFi-WhaMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 66
+  },
+  "LoGrooveMS": {
+    "name": "LoGrooveMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 67
+  },
+  "Lovly80sMS": {
+    "name": "Lovly80sMS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 68
+  },
+  "MayaFireMS": {
+    "name": "MayaFireMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 69
+  },
+  "Megane  MS": {
+    "name": "Megane  MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 70
+  },
+  "Mettler MS": {
+    "name": "Mettler MS",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 2,
+    "index": 71
+  },
+  "MnstrSawMS": {
+    "name": "MnstrSawMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 72
+  },
+  "MnstrSw2MS": {
+    "name": "MnstrSw2MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 73
+  },
+  "MotoSyncMS": {
+    "name": "MotoSyncMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 74
+  },
+  "MovinPadMS": {
+    "name": "MovinPadMS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 75
+  },
+  "MutePickMS": {
+    "name": "MutePickMS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 2,
+    "index": 76
+  },
+  "NarcoticMS": {
+    "name": "NarcoticMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 77
+  },
+  "Noomed  MS": {
+    "name": "Noomed  MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 78
+  },
+  "Noomed2 MS": {
+    "name": "Noomed2 MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 79
+  },
+  "noToy   MS": {
+    "name": "noToy   MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 80
+  },
+  "NuNrg   MS": {
+    "name": "NuNrg   MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 81
+  },
+  "OberBrssMS": {
+    "name": "OberBrssMS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 2,
+    "index": 82
+  },
+  "OiOiBassMS": {
+    "name": "OiOiBassMS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 83
+  },
+  "OktaviusMS": {
+    "name": "OktaviusMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 84
+  },
+  "OrchBlstMS": {
+    "name": "OrchBlstMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 85
+  },
+  "PhoneSqrMS": {
+    "name": "PhoneSqrMS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 86
+  },
+  "PhonoboyMS": {
+    "name": "PhonoboyMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 87
+  },
+  "PlastoneMS": {
+    "name": "PlastoneMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 88
+  },
+  "PsyBat  MS": {
+    "name": "PsyBat  MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 89
+  },
+  "PulvrTrmMS": {
+    "name": "PulvrTrmMS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 2,
+    "index": 90
+  },
+  "PuristicMS": {
+    "name": "PuristicMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 91
+  },
+  "RelativeMS": {
+    "name": "RelativeMS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 92
+  },
+  "RePunch MS": {
+    "name": "RePunch MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 93
+  },
+  "RezoBassMS": {
+    "name": "RezoBassMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 94
+  },
+  "SadSaws MS": {
+    "name": "SadSaws MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 95
+  },
+  "Saw You MS": {
+    "name": "Saw You MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 96
+  },
+  "Schilla MS": {
+    "name": "Schilla MS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 97
+  },
+  "Sharp   MS": {
+    "name": "Sharp   MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 98
+  },
+  "Sick SQ MS": {
+    "name": "Sick SQ MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 99
+  },
+  "SinePad MS": {
+    "name": "SinePad MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 100
+  },
+  "SlowSilkMS": {
+    "name": "SlowSilkMS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 101
+  },
+  "SoftBassMS": {
+    "name": "SoftBassMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 102
+  },
+  "SpheroidMS": {
+    "name": "SpheroidMS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 2,
+    "index": 103
+  },
+  "Stack X MS": {
+    "name": "Stack X MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 104
+  },
+  "Step64  MS": {
+    "name": "Step64  MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 105
+  },
+  "SunPianoMS": {
+    "name": "SunPianoMS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 106
+  },
+  "SupaCoreMS": {
+    "name": "SupaCoreMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 107
+  },
+  "SuperWrmMS": {
+    "name": "SuperWrmMS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 108
+  },
+  "TchnolgcMS": {
+    "name": "TchnolgcMS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 109
+  },
+  "The Bug MS": {
+    "name": "The Bug MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 110
+  },
+  "Theory  MS": {
+    "name": "Theory  MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 111
+  },
+  "TiberiumMS": {
+    "name": "TiberiumMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 112
+  },
+  "TIBuzzerMS": {
+    "name": "TIBuzzerMS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 113
+  },
+  "Tracker MS": {
+    "name": "Tracker MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 114
+  },
+  "TriblZapMS": {
+    "name": "TriblZapMS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 115
+  },
+  "UpliftFXMS": {
+    "name": "UpliftFXMS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 2,
+    "index": 116
+  },
+  "Vanish  MS": {
+    "name": "Vanish  MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 117
+  },
+  "Vogue   MS": {
+    "name": "Vogue   MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 118
+  },
+  "Voltage MS": {
+    "name": "Voltage MS",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 2,
+    "index": 119
+  },
+  "Voxiter MS": {
+    "name": "Voxiter MS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 2,
+    "index": 120
+  },
+  "WidePad MS": {
+    "name": "WidePad MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 121
+  },
+  "Wind    MS": {
+    "name": "Wind    MS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 2,
+    "index": 122
+  },
+  "Wurly   MS": {
+    "name": "Wurly   MS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 2,
+    "index": 123
+  },
+  "X-Mod   MS": {
+    "name": "X-Mod   MS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 2,
+    "index": 124
+  },
+  "XylotronMS": {
+    "name": "XylotronMS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 2,
+    "index": 125
+  },
+  "YamahFB1MS": {
+    "name": "YamahFB1MS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 2,
+    "index": 126
+  },
+  "Zapper  MS": {
+    "name": "Zapper  MS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 2,
+    "index": 127
+  }
+}

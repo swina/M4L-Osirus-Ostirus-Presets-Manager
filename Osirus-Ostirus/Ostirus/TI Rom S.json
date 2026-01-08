@@ -1,0 +1,898 @@
+{
+  "Ambi@ns": {
+    "name": "Ambi@ns",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 21,
+    "index": 0
+  },
+  "Ambiano  @": {
+    "name": "Ambiano  @",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 21,
+    "index": 1
+  },
+  "AmrCnBe@uT": {
+    "name": "AmrCnBe@uT",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 21,
+    "index": 2
+  },
+  "An@gry2": {
+    "name": "An@gry2",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 3
+  },
+  "An@themoo": {
+    "name": "An@themoo",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 4
+  },
+  "Analogy  @": {
+    "name": "Analogy  @",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 5
+  },
+  "Anathing @": {
+    "name": "Anathing @",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 6
+  },
+  "Andy'sGR @": {
+    "name": "Andy'sGR @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 7
+  },
+  "ArpIn7   @": {
+    "name": "ArpIn7   @",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 21,
+    "index": 8
+  },
+  "At@riKart": {
+    "name": "At@riKart",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 9
+  },
+  "B@dRezo": {
+    "name": "B@dRezo",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 10
+  },
+  "Bell6th  @": {
+    "name": "Bell6th  @",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 11
+  },
+  "Bellt@ble": {
+    "name": "Bellt@ble",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 21,
+    "index": 12
+  },
+  "Belltiple@": {
+    "name": "Belltiple@",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 13
+  },
+  "BelzBelz @": {
+    "name": "BelzBelz @",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 14
+  },
+  "BG@sGroov2": {
+    "name": "BG@sGroov2",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 15
+  },
+  "Bl@kCopter": {
+    "name": "Bl@kCopter",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 16
+  },
+  "Bs2ndBass": {
+    "name": "Bs2ndBass",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 17
+  },
+  "Bs90Ag@in": {
+    "name": "Bs90Ag@in",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 18
+  },
+  "BsAftrImag": {
+    "name": "BsAftrImag",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 19
+  },
+  "BsBowzr07@": {
+    "name": "BsBowzr07@",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 20
+  },
+  "BsD@rkDngr": {
+    "name": "BsD@rkDngr",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 21
+  },
+  "BsEverL@st": {
+    "name": "BsEverL@st",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 22
+  },
+  "bsEX8000 @": {
+    "name": "bsEX8000 @",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 23
+  },
+  "BsFrogFX @": {
+    "name": "BsFrogFX @",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 24
+  },
+  "BsGroov@rp": {
+    "name": "BsGroov@rp",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 25
+  },
+  "BsJ@mmer": {
+    "name": "BsJ@mmer",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 26
+  },
+  "BsM@rauder": {
+    "name": "BsM@rauder",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 27
+  },
+  "BsMi@mi'85": {
+    "name": "BsMi@mi'85",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 28
+  },
+  "bsMyT@ke": {
+    "name": "bsMyT@ke",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 29
+  },
+  "BsOldXSvn@": {
+    "name": "BsOldXSvn@",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 30
+  },
+  "BsPileDrv@": {
+    "name": "BsPileDrv@",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 31
+  },
+  "BsShakeIt!": {
+    "name": "BsShakeIt!",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 32
+  },
+  "BsSomethn@": {
+    "name": "BsSomethn@",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 33
+  },
+  "BsW@rmFunk": {
+    "name": "BsW@rmFunk",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 34
+  },
+  "ByNaamnco@": {
+    "name": "ByNaamnco@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 35
+  },
+  "ChefIsDe@d": {
+    "name": "ChefIsDe@d",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 21,
+    "index": 36
+  },
+  "Cl@sikPlik": {
+    "name": "Cl@sikPlik",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 37
+  },
+  "Comp8va  @": {
+    "name": "Comp8va  @",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 38
+  },
+  "Dh@rshan": {
+    "name": "Dh@rshan",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 39
+  },
+  "DigiBel5 @": {
+    "name": "DigiBel5 @",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 40
+  },
+  "DigiBel6 @": {
+    "name": "DigiBel6 @",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 21,
+    "index": 41
+  },
+  "DigiBel7 @": {
+    "name": "DigiBel7 @",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 21,
+    "index": 42
+  },
+  "DigiStep1@": {
+    "name": "DigiStep1@",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 43
+  },
+  "Digit@r85@": {
+    "name": "Digit@r85@",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 44
+  },
+  "Digit@r86@": {
+    "name": "Digit@r86@",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 45
+  },
+  "DirT 5   @": {
+    "name": "DirT 5   @",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 21,
+    "index": 46
+  },
+  "Dre@mGull": {
+    "name": "Dre@mGull",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 47
+  },
+  "EmKayEss@": {
+    "name": "EmKayEss@",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 48
+  },
+  "EnvPitch @": {
+    "name": "EnvPitch @",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 21,
+    "index": 49
+  },
+  "EPPGp@+Bel": {
+    "name": "EPPGp@+Bel",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 21,
+    "index": 50
+  },
+  "epStikky @": {
+    "name": "epStikky @",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 51
+  },
+  "Eurythmia@": {
+    "name": "Eurythmia@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 52
+  },
+  "EvilNoyzM@": {
+    "name": "EvilNoyzM@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 53
+  },
+  "eVolvyngM@": {
+    "name": "eVolvyngM@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 54
+  },
+  "ExTrvaGnz@": {
+    "name": "ExTrvaGnz@",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 55
+  },
+  "F@llOut": {
+    "name": "F@llOut",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 21,
+    "index": 56
+  },
+  "GlitchHit@": {
+    "name": "GlitchHit@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 57
+  },
+  "GothSweet@": {
+    "name": "GothSweet@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 58
+  },
+  "H2SO4 @": {
+    "name": "H2SO4 @",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 59
+  },
+  "H@acker": {
+    "name": "H@acker",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 60
+  },
+  "Hell  X  @": {
+    "name": "Hell  X  @",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 61
+  },
+  "HyperBow1@": {
+    "name": "HyperBow1@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 62
+  },
+  "HyperBow2@": {
+    "name": "HyperBow2@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 63
+  },
+  "HyperBow3@": {
+    "name": "HyperBow3@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 64
+  },
+  "HyperF@re": {
+    "name": "HyperF@re",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 21,
+    "index": 65
+  },
+  "HyperGrit": {
+    "name": "HyperGrit",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 21,
+    "index": 66
+  },
+  "HyperJump@": {
+    "name": "HyperJump@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 67
+  },
+  "HyperSpit@": {
+    "name": "HyperSpit@",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 21,
+    "index": 68
+  },
+  "IS THIS F@": {
+    "name": "IS THIS F@",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 69
+  },
+  "J@peE.Ate": {
+    "name": "J@peE.Ate",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 70
+  },
+  "Key=Time @": {
+    "name": "Key=Time @",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 71
+  },
+  "KickMech @": {
+    "name": "KickMech @",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 21,
+    "index": 72
+  },
+  "L@byrinth": {
+    "name": "L@byrinth",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 73
+  },
+  "LFOhB@by": {
+    "name": "LFOhB@by",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 21,
+    "index": 74
+  },
+  "M@jorTom": {
+    "name": "M@jorTom",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 75
+  },
+  "M@trix1000": {
+    "name": "M@trix1000",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 21,
+    "index": 76
+  },
+  "MechElec@": {
+    "name": "MechElec@",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 21,
+    "index": 77
+  },
+  "MiamiP@d": {
+    "name": "MiamiP@d",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 78
+  },
+  "ModelA100@": {
+    "name": "ModelA100@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 79
+  },
+  "Mono P@d": {
+    "name": "Mono P@d",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 80
+  },
+  "Mr.Kite  @": {
+    "name": "Mr.Kite  @",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 81
+  },
+  "NineTrem @": {
+    "name": "NineTrem @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 82
+  },
+  "NuSynCl@v": {
+    "name": "NuSynCl@v",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 21,
+    "index": 83
+  },
+  "Oergan@": {
+    "name": "Oergan@",
+    "category": "Cat:17",
+    "category_id": 17,
+    "bank_id": 21,
+    "index": 84
+  },
+  "Org@ncheez": {
+    "name": "Org@ncheez",
+    "category": "Cat:17",
+    "category_id": 17,
+    "bank_id": 21,
+    "index": 85
+  },
+  "P@dosphear": {
+    "name": "P@dosphear",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 86
+  },
+  "P@rtials 1": {
+    "name": "P@rtials 1",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 87
+  },
+  "P@rtials 2": {
+    "name": "P@rtials 2",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 88
+  },
+  "Pd High5 @": {
+    "name": "Pd High5 @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 89
+  },
+  "pdAerSyn @": {
+    "name": "pdAerSyn @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 90
+  },
+  "pdEPW@sh": {
+    "name": "pdEPW@sh",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 21,
+    "index": 91
+  },
+  "PdJovi@n": {
+    "name": "PdJovi@n",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 92
+  },
+  "pdLiquiP@d": {
+    "name": "pdLiquiP@d",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 93
+  },
+  "PdMutagen@": {
+    "name": "PdMutagen@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 94
+  },
+  "pdNeutron@": {
+    "name": "pdNeutron@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 95
+  },
+  "PdPl@net:1": {
+    "name": "PdPl@net:1",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 96
+  },
+  "PdPl@net:8": {
+    "name": "PdPl@net:8",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 97
+  },
+  "PdSol@rize": {
+    "name": "PdSol@rize",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 98
+  },
+  "pdWave2.3": {
+    "name": "pdWave2.3",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 99
+  },
+  "PeteMoore@": {
+    "name": "PeteMoore@",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 100
+  },
+  "Ph@seWhiz": {
+    "name": "Ph@seWhiz",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 101
+  },
+  "PrcSimmnz@": {
+    "name": "PrcSimmnz@",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 21,
+    "index": 102
+  },
+  "Pulsar   @": {
+    "name": "Pulsar   @",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 21,
+    "index": 103
+  },
+  "R@ngeRun": {
+    "name": "R@ngeRun",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 21,
+    "index": 104
+  },
+  "RayScott @": {
+    "name": "RayScott @",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 105
+  },
+  "Reternal@": {
+    "name": "Reternal@",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 21,
+    "index": 106
+  },
+  "S@y \"TI\"": {
+    "name": "S@y \"TI\"",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 107
+  },
+  "SawSign@ls": {
+    "name": "SawSign@ls",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 108
+  },
+  "SawSyncX@T": {
+    "name": "SawSyncX@T",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 109
+  },
+  "ScritiRun@": {
+    "name": "ScritiRun@",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 110
+  },
+  "SineLang2@": {
+    "name": "SineLang2@",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 111
+  },
+  "SlowViol@": {
+    "name": "SlowViol@",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 21,
+    "index": 112
+  },
+  "Sup@Gruv": {
+    "name": "Sup@Gruv",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 21,
+    "index": 113
+  },
+  "Synczill@": {
+    "name": "Synczill@",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 21,
+    "index": 114
+  },
+  "Synkrp@te": {
+    "name": "Synkrp@te",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 115
+  },
+  "T-Board  @": {
+    "name": "T-Board  @",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 21,
+    "index": 116
+  },
+  "Table@ir": {
+    "name": "Table@ir",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 117
+  },
+  "Terror3D @": {
+    "name": "Terror3D @",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 118
+  },
+  "Tiam@t": {
+    "name": "Tiam@t",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 21,
+    "index": 119
+  },
+  "ToeToeIV @": {
+    "name": "ToeToeIV @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 120
+  },
+  "Tribbles @": {
+    "name": "Tribbles @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 121
+  },
+  "UCantW@it": {
+    "name": "UCantW@it",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 21,
+    "index": 122
+  },
+  "VolesGrng@": {
+    "name": "VolesGrng@",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 21,
+    "index": 123
+  },
+  "VoleSolo @": {
+    "name": "VoleSolo @",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 124
+  },
+  "Xu@rn": {
+    "name": "Xu@rn",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 21,
+    "index": 125
+  },
+  "Z@pperGruv": {
+    "name": "Z@pperGruv",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 21,
+    "index": 126
+  },
+  "xx_Tuner @": {
+    "name": "xx_Tuner @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 21,
+    "index": 127
+  }
+}

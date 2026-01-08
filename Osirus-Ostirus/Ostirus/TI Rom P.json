@@ -1,0 +1,898 @@
+{
+  "!\"U\"!  CC": {
+    "name": "!\"U\"!  CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 0
+  },
+  "%SOFT%  CC": {
+    "name": "%SOFT%  CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 1
+  },
+  "2 LFO 2 CC": {
+    "name": "2 LFO 2 CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 2
+  },
+  "A FreeK CC": {
+    "name": "A FreeK CC",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 18,
+    "index": 3
+  },
+  "ADN     CC": {
+    "name": "ADN     CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 4
+  },
+  "AfterpadCC": {
+    "name": "AfterpadCC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 18,
+    "index": 5
+  },
+  "Alamos  CC": {
+    "name": "Alamos  CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 6
+  },
+  "AmiGito CC": {
+    "name": "AmiGito CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 7
+  },
+  "AussieLdCC": {
+    "name": "AussieLdCC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 8
+  },
+  "B-Boys  CC": {
+    "name": "B-Boys  CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 9
+  },
+  "BallenasCC": {
+    "name": "BallenasCC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 10
+  },
+  "Bandrun CC": {
+    "name": "Bandrun CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 11
+  },
+  "Bass!!! CC": {
+    "name": "Bass!!! CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 12
+  },
+  "BigArp  CC": {
+    "name": "BigArp  CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 13
+  },
+  "BigBass2CC": {
+    "name": "BigBass2CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 14
+  },
+  "BudapestCC": {
+    "name": "BudapestCC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 15
+  },
+  "C4Phone CC": {
+    "name": "C4Phone CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 16
+  },
+  "Ciko    CC": {
+    "name": "Ciko    CC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 18,
+    "index": 17
+  },
+  "Cinema1 CC": {
+    "name": "Cinema1 CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 18
+  },
+  "Cinema2 CC": {
+    "name": "Cinema2 CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 19
+  },
+  "Circus  CC": {
+    "name": "Circus  CC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 18,
+    "index": 20
+  },
+  "CrystalsMH": {
+    "name": "CrystalsMH",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 21
+  },
+  "D50MorphCC": {
+    "name": "D50MorphCC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 22
+  },
+  "DCLead  CC": {
+    "name": "DCLead  CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 23
+  },
+  "Zooz    SV": {
+    "name": "Zooz    SV",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 18,
+    "index": 24
+  },
+  "DiganOB CC": {
+    "name": "DiganOB CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 25
+  },
+  "Diosa   CC": {
+    "name": "Diosa   CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 26
+  },
+  "DukaliopCC": {
+    "name": "DukaliopCC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 18,
+    "index": 27
+  },
+  "Duke5   CC": {
+    "name": "Duke5   CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 28
+  },
+  "DX 100  CC": {
+    "name": "DX 100  CC",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 18,
+    "index": 29
+  },
+  "DX ThickCC": {
+    "name": "DX ThickCC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 30
+  },
+  "Early80sMH": {
+    "name": "Early80sMH",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 18,
+    "index": 31
+  },
+  "EarthLd CC": {
+    "name": "EarthLd CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 32
+  },
+  "Entropy MH": {
+    "name": "Entropy MH",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 33
+  },
+  "Stagga  SV": {
+    "name": "Stagga  SV",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 18,
+    "index": 34
+  },
+  "Eyyy    CC": {
+    "name": "Eyyy    CC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 18,
+    "index": 35
+  },
+  "Falling1CC": {
+    "name": "Falling1CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 36
+  },
+  "FanKWrldCC": {
+    "name": "FanKWrldCC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 37
+  },
+  "ChrysPadSV": {
+    "name": "ChrysPadSV",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 38
+  },
+  "Fiona   MH": {
+    "name": "Fiona   MH",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 18,
+    "index": 39
+  },
+  "Flower  CC": {
+    "name": "Flower  CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 40
+  },
+  "Flys    CC": {
+    "name": "Flys    CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 41
+  },
+  "FM Perc CC": {
+    "name": "FM Perc CC",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 18,
+    "index": 42
+  },
+  "Fm&Mod  CC": {
+    "name": "Fm&Mod  CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 43
+  },
+  "FM&MOD2 CC": {
+    "name": "FM&MOD2 CC",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 18,
+    "index": 44
+  },
+  "FM)MW   CC": {
+    "name": "FM)MW   CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 45
+  },
+  "FreakMinCC": {
+    "name": "FreakMinCC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 46
+  },
+  "Garfisa CC": {
+    "name": "Garfisa CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 47
+  },
+  "Gargara CC": {
+    "name": "Gargara CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 48
+  },
+  "Genssis CC": {
+    "name": "Genssis CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 49
+  },
+  "Hancock CC": {
+    "name": "Hancock CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 50
+  },
+  "Hohner  CC": {
+    "name": "Hohner  CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 51
+  },
+  "HollowBsPS": {
+    "name": "HollowBsPS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 52
+  },
+  "HongKongCC": {
+    "name": "HongKongCC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 53
+  },
+  "Plux0r  SV": {
+    "name": "Plux0r  SV",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 18,
+    "index": 54
+  },
+  "JDLead  CC": {
+    "name": "JDLead  CC",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 18,
+    "index": 55
+  },
+  "JoeZ Vc CC": {
+    "name": "JoeZ Vc CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 56
+  },
+  "Joni M. CC": {
+    "name": "Joni M. CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 57
+  },
+  "JPEight PS": {
+    "name": "JPEight PS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 58
+  },
+  "KeratArpCC": {
+    "name": "KeratArpCC",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 18,
+    "index": 59
+  },
+  "L.Mays1 CC": {
+    "name": "L.Mays1 CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 60
+  },
+  "L.Mays2 CC": {
+    "name": "L.Mays2 CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 61
+  },
+  "LamaLeadCC": {
+    "name": "LamaLeadCC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 62
+  },
+  "LAVirginCC": {
+    "name": "LAVirginCC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 63
+  },
+  "Lullaby CC": {
+    "name": "Lullaby CC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 18,
+    "index": 64
+  },
+  "MadrePadCC": {
+    "name": "MadrePadCC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 65
+  },
+  "MamasGunCC": {
+    "name": "MamasGunCC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 66
+  },
+  "Mapa    CC": {
+    "name": "Mapa    CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 67
+  },
+  "Marbles CC": {
+    "name": "Marbles CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 68
+  },
+  "Mercado CC": {
+    "name": "Mercado CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 69
+  },
+  "MeShell2CC": {
+    "name": "MeShell2CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 70
+  },
+  "MgBass1 CC": {
+    "name": "MgBass1 CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 71
+  },
+  "MgStereoCC": {
+    "name": "MgStereoCC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 72
+  },
+  "MINI-M++CC": {
+    "name": "MINI-M++CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 73
+  },
+  "MiniExp CC": {
+    "name": "MiniExp CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 74
+  },
+  "Moderno CC": {
+    "name": "Moderno CC",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 18,
+    "index": 75
+  },
+  "Montero CC": {
+    "name": "Montero CC",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 18,
+    "index": 76
+  },
+  "MS HammrCC": {
+    "name": "MS HammrCC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 77
+  },
+  "Mth Sky CC": {
+    "name": "Mth Sky CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 78
+  },
+  "MW SeqG CC": {
+    "name": "MW SeqG CC",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 18,
+    "index": 79
+  },
+  "N N 1   CC": {
+    "name": "N N 1   CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 80
+  },
+  "NewLeadQCC": {
+    "name": "NewLeadQCC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 81
+  },
+  "NuWaveLdCC": {
+    "name": "NuWaveLdCC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 82
+  },
+  "O Pitch CC": {
+    "name": "O Pitch CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 83
+  },
+  "O Pitch2CC": {
+    "name": "O Pitch2CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 84
+  },
+  "OB 10   CC": {
+    "name": "OB 10   CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 85
+  },
+  "OB 8    CC": {
+    "name": "OB 8    CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 86
+  },
+  "OB Neee CC": {
+    "name": "OB Neee CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 87
+  },
+  "OB Tero CC": {
+    "name": "OB Tero CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 88
+  },
+  "OBeeBee CC": {
+    "name": "OBeeBee CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 89
+  },
+  "OBrass  CC": {
+    "name": "OBrass  CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 90
+  },
+  "Open P5 CC": {
+    "name": "Open P5 CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 91
+  },
+  "Osc3    CC": {
+    "name": "Osc3    CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 92
+  },
+  "OuBeeStrCC": {
+    "name": "OuBeeStrCC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 93
+  },
+  "Pad S&H CC": {
+    "name": "Pad S&H CC",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 18,
+    "index": 94
+  },
+  "PeacePd CC": {
+    "name": "PeacePd CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 95
+  },
+  "People1 CC": {
+    "name": "People1 CC",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 18,
+    "index": 96
+  },
+  "People2 CC": {
+    "name": "People2 CC",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 18,
+    "index": 97
+  },
+  "PhaseMW CC": {
+    "name": "PhaseMW CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 98
+  },
+  "PhasEns CC": {
+    "name": "PhasEns CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 99
+  },
+  "PPGCruelCC": {
+    "name": "PPGCruelCC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 100
+  },
+  "PPGWavesCC": {
+    "name": "PPGWavesCC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 101
+  },
+  "Remark  CC": {
+    "name": "Remark  CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 102
+  },
+  "Rosario CC": {
+    "name": "Rosario CC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 18,
+    "index": 103
+  },
+  "S&HSeq2 CC": {
+    "name": "S&HSeq2 CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 104
+  },
+  "Scared  CC": {
+    "name": "Scared  CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 105
+  },
+  "SeqAlienCC": {
+    "name": "SeqAlienCC",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 18,
+    "index": 106
+  },
+  "SineBudaCC": {
+    "name": "SineBudaCC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 107
+  },
+  "Spain2  CC": {
+    "name": "Spain2  CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 108
+  },
+  "SQRSolo CC": {
+    "name": "SQRSolo CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 109
+  },
+  "StrAbejaCC": {
+    "name": "StrAbejaCC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 110
+  },
+  "StrAlterCC": {
+    "name": "StrAlterCC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 111
+  },
+  "SubBass CC": {
+    "name": "SubBass CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 112
+  },
+  "Sweep   CC": {
+    "name": "Sweep   CC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 113
+  },
+  "SweepichCC": {
+    "name": "SweepichCC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 114
+  },
+  "TalkPad CC": {
+    "name": "TalkPad CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 115
+  },
+  "Transas CC": {
+    "name": "Transas CC",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 18,
+    "index": 116
+  },
+  "UFO 33  CC": {
+    "name": "UFO 33  CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 117
+  },
+  "UMBbass CC": {
+    "name": "UMBbass CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 118
+  },
+  "VeryFar CC": {
+    "name": "VeryFar CC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 18,
+    "index": 119
+  },
+  "Vi-bass+CC": {
+    "name": "Vi-bass+CC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 18,
+    "index": 120
+  },
+  "WaitingRCC": {
+    "name": "WaitingRCC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 121
+  },
+  "Wakeman CC": {
+    "name": "Wakeman CC",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 18,
+    "index": 122
+  },
+  "WakMoogyCC": {
+    "name": "WakMoogyCC",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 18,
+    "index": 123
+  },
+  "WaveSeq CC": {
+    "name": "WaveSeq CC",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 18,
+    "index": 124
+  },
+  "WavetronCC": {
+    "name": "WavetronCC",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 18,
+    "index": 125
+  },
+  "XXI     CC": {
+    "name": "XXI     CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 18,
+    "index": 126
+  },
+  "Zen     CC": {
+    "name": "Zen     CC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 18,
+    "index": 127
+  }
+}

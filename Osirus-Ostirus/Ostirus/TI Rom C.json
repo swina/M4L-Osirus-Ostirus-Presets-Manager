@@ -1,0 +1,898 @@
+{
+  "3-Dumm  HS": {
+    "name": "3-Dumm  HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 0
+  },
+  "60sSciFiHS": {
+    "name": "60sSciFiHS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 5,
+    "index": 1
+  },
+  "68-CreakHS": {
+    "name": "68-CreakHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 2
+  },
+  "Aah-Vln HS": {
+    "name": "Aah-Vln HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 3
+  },
+  "Acidica HS": {
+    "name": "Acidica HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 4
+  },
+  "AnlogBD HS": {
+    "name": "AnlogBD HS",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 5,
+    "index": 5
+  },
+  "AnyMusicHS": {
+    "name": "AnyMusicHS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 6
+  },
+  "AutobahnHS": {
+    "name": "AutobahnHS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 7
+  },
+  "BadCntaxHS": {
+    "name": "BadCntaxHS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 8
+  },
+  "Baryon  HS": {
+    "name": "Baryon  HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 9
+  },
+  "Bombers HS": {
+    "name": "Bombers HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 10
+  },
+  "Brash   HS": {
+    "name": "Brash   HS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 11
+  },
+  "Cadmium HS": {
+    "name": "Cadmium HS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 5,
+    "index": 12
+  },
+  "Clox    HS": {
+    "name": "Clox    HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 13
+  },
+  "CutBrassHS": {
+    "name": "CutBrassHS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 14
+  },
+  "CuttaD6 HS": {
+    "name": "CuttaD6 HS",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 5,
+    "index": 15
+  },
+  "Cyber2  HS": {
+    "name": "Cyber2  HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 16
+  },
+  "D50-50  HS": {
+    "name": "D50-50  HS",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 5,
+    "index": 17
+  },
+  "D=CM+1  HS": {
+    "name": "D=CM+1  HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 18
+  },
+  "DaBirds HS": {
+    "name": "DaBirds HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 19
+  },
+  "DayDreamHS": {
+    "name": "DayDreamHS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 20
+  },
+  "DinoArp HS": {
+    "name": "DinoArp HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 21
+  },
+  "Dis-Go HS": {
+    "name": "Dis-Go HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 22
+  },
+  "Doyoyng HS": {
+    "name": "Doyoyng HS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 5,
+    "index": 23
+  },
+  "Droned  HS": {
+    "name": "Droned  HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 24
+  },
+  "DuckDivrHS": {
+    "name": "DuckDivrHS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 25
+  },
+  "Dworg   HS": {
+    "name": "Dworg   HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 26
+  },
+  "DX-File HS": {
+    "name": "DX-File HS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 5,
+    "index": 27
+  },
+  "Elohim  HS": {
+    "name": "Elohim  HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 28
+  },
+  "EmPyre  HS": {
+    "name": "EmPyre  HS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 5,
+    "index": 29
+  },
+  "EP+Faze HS": {
+    "name": "EP+Faze HS",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 5,
+    "index": 30
+  },
+  "FilmTrpsHS": {
+    "name": "FilmTrpsHS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 31
+  },
+  "FlagshipHS": {
+    "name": "FlagshipHS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 32
+  },
+  "Flam&Co HS": {
+    "name": "Flam&Co HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 33
+  },
+  "FlatHat HS": {
+    "name": "FlatHat HS",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 5,
+    "index": 34
+  },
+  "Floooot HS": {
+    "name": "Floooot HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 35
+  },
+  "FlyingT HS": {
+    "name": "FlyingT HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 36
+  },
+  "Funk-U  HS": {
+    "name": "Funk-U  HS",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 5,
+    "index": 37
+  },
+  "GlasBirdHS": {
+    "name": "GlasBirdHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 38
+  },
+  "GlasGlisHS": {
+    "name": "GlasGlisHS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 5,
+    "index": 39
+  },
+  "Gliss2  HS": {
+    "name": "Gliss2  HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 40
+  },
+  "Goudam  HS": {
+    "name": "Goudam  HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 41
+  },
+  "Handsaw HS": {
+    "name": "Handsaw HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 42
+  },
+  "HardOne HS": {
+    "name": "HardOne HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 43
+  },
+  "HillAgesHS": {
+    "name": "HillAgesHS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 44
+  },
+  "ImpOsc02HS": {
+    "name": "ImpOsc02HS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 45
+  },
+  "ImpOsc03HS": {
+    "name": "ImpOsc03HS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 46
+  },
+  "IonFlux HS": {
+    "name": "IonFlux HS",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 5,
+    "index": 47
+  },
+  "Jester  HS": {
+    "name": "Jester  HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 48
+  },
+  "Knock-B HS": {
+    "name": "Knock-B HS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 49
+  },
+  "LA Lore HS": {
+    "name": "LA Lore HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 50
+  },
+  "Kordeon HS": {
+    "name": "Kordeon HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 51
+  },
+  "Kofi-B  HS": {
+    "name": "Kofi-B  HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 52
+  },
+  "Latex 2 HS": {
+    "name": "Latex 2 HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 53
+  },
+  "Latinum HS": {
+    "name": "Latinum HS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 5,
+    "index": 54
+  },
+  "Lobster HS": {
+    "name": "Lobster HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 55
+  },
+  "LostLeadHS": {
+    "name": "LostLeadHS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 56
+  },
+  "Mandoid HS": {
+    "name": "Mandoid HS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 5,
+    "index": 57
+  },
+  "MaxiMin HS": {
+    "name": "MaxiMin HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 58
+  },
+  "McCloud HS": {
+    "name": "McCloud HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 59
+  },
+  "McNasty HS": {
+    "name": "McNasty HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 60
+  },
+  "MoonriseHS": {
+    "name": "MoonriseHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 61
+  },
+  "Movmnt2 HS": {
+    "name": "Movmnt2 HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 62
+  },
+  "MowGrassHS": {
+    "name": "MowGrassHS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 63
+  },
+  "Nanites HS": {
+    "name": "Nanites HS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 5,
+    "index": 64
+  },
+  "Needles HS": {
+    "name": "Needles HS",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 5,
+    "index": 65
+  },
+  "NewStrumHS": {
+    "name": "NewStrumHS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 66
+  },
+  "Nocoder HS": {
+    "name": "Nocoder HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 67
+  },
+  "OffTopicHS": {
+    "name": "OffTopicHS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 68
+  },
+  "Old Brs HS": {
+    "name": "Old Brs HS",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 5,
+    "index": 69
+  },
+  "PanDora HS": {
+    "name": "PanDora HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 70
+  },
+  "Phase 2 HS": {
+    "name": "Phase 2 HS",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 5,
+    "index": 71
+  },
+  "Phazzah HS": {
+    "name": "Phazzah HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 72
+  },
+  "Phloid  HS": {
+    "name": "Phloid  HS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 73
+  },
+  "Pickles HS": {
+    "name": "Pickles HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 74
+  },
+  "PlecBassHS": {
+    "name": "PlecBassHS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 75
+  },
+  "Pluto   HS": {
+    "name": "Pluto   HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 76
+  },
+  "Polytix HS": {
+    "name": "Polytix HS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 77
+  },
+  "PourDry HS": {
+    "name": "PourDry HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 78
+  },
+  "ProFit  HS": {
+    "name": "ProFit  HS",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 5,
+    "index": 79
+  },
+  "ProWeed HS": {
+    "name": "ProWeed HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 80
+  },
+  "Pstyro3 HS": {
+    "name": "Pstyro3 HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 81
+  },
+  "PurrBassHS": {
+    "name": "PurrBassHS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 82
+  },
+  "PutzFrauHS": {
+    "name": "PutzFrauHS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 5,
+    "index": 83
+  },
+  "PyroFlowHS": {
+    "name": "PyroFlowHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 84
+  },
+  "Q+Fatty HS": {
+    "name": "Q+Fatty HS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 85
+  },
+  "Qricket HS": {
+    "name": "Qricket HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 86
+  },
+  "RezBass HS": {
+    "name": "RezBass HS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 87
+  },
+  "Rigby2  HS": {
+    "name": "Rigby2  HS",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 5,
+    "index": 88
+  },
+  "Riptide HS": {
+    "name": "Riptide HS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 89
+  },
+  "ScrapyrdHS": {
+    "name": "ScrapyrdHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 90
+  },
+  "SeaThreeHS": {
+    "name": "SeaThreeHS",
+    "category": "Cat:17",
+    "category_id": 17,
+    "bank_id": 5,
+    "index": 91
+  },
+  "SirNevilHS": {
+    "name": "SirNevilHS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 92
+  },
+  "Sitar2  HS": {
+    "name": "Sitar2  HS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 5,
+    "index": 93
+  },
+  "Skrape  HS": {
+    "name": "Skrape  HS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 5,
+    "index": 94
+  },
+  "SlaplandHS": {
+    "name": "SlaplandHS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 95
+  },
+  "SleigherHS": {
+    "name": "SleigherHS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 5,
+    "index": 96
+  },
+  "SlipShotHS": {
+    "name": "SlipShotHS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 97
+  },
+  "Snakeye HS": {
+    "name": "Snakeye HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 98
+  },
+  "SpaceP2 HS": {
+    "name": "SpaceP2 HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 99
+  },
+  "Species HS": {
+    "name": "Species HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 100
+  },
+  "Squink  HS": {
+    "name": "Squink  HS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 5,
+    "index": 101
+  },
+  "Stabber HS": {
+    "name": "Stabber HS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 102
+  },
+  "StarBeesHS": {
+    "name": "StarBeesHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 103
+  },
+  "StarFallHS": {
+    "name": "StarFallHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 104
+  },
+  "Sugar1  HS": {
+    "name": "Sugar1  HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 105
+  },
+  "Sugar2  HS": {
+    "name": "Sugar2  HS",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 5,
+    "index": 106
+  },
+  "Sugar5  HS": {
+    "name": "Sugar5  HS",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 5,
+    "index": 107
+  },
+  "SunChildHS": {
+    "name": "SunChildHS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 108
+  },
+  "Synthar HS": {
+    "name": "Synthar HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 109
+  },
+  "Tack    HS": {
+    "name": "Tack    HS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 110
+  },
+  "TankYou HS": {
+    "name": "TankYou HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 111
+  },
+  "TinyBee HS": {
+    "name": "TinyBee HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 112
+  },
+  "Torque  HS": {
+    "name": "Torque  HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 113
+  },
+  "TownshipHS": {
+    "name": "TownshipHS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 114
+  },
+  "Trancit HS": {
+    "name": "Trancit HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 5,
+    "index": 115
+  },
+  "TrebleB HS": {
+    "name": "TrebleB HS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 5,
+    "index": 116
+  },
+  "Trombic HS": {
+    "name": "Trombic HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 117
+  },
+  "Trumps  HS": {
+    "name": "Trumps  HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 118
+  },
+  "UnstableHS": {
+    "name": "UnstableHS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 119
+  },
+  "VCSwolf HS": {
+    "name": "VCSwolf HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 120
+  },
+  "Vlhurgs HS": {
+    "name": "Vlhurgs HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 121
+  },
+  "Warbell HS": {
+    "name": "Warbell HS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 5,
+    "index": 122
+  },
+  "Wendy+  HS": {
+    "name": "Wendy+  HS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 123
+  },
+  "WetspaceHS": {
+    "name": "WetspaceHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 124
+  },
+  "WndChimeHS": {
+    "name": "WndChimeHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 5,
+    "index": 125
+  },
+  "X-Mover HS": {
+    "name": "X-Mover HS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 5,
+    "index": 126
+  },
+  "YouWish HS": {
+    "name": "YouWish HS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 5,
+    "index": 127
+  }
+}

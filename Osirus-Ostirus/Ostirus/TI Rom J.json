@@ -1,0 +1,898 @@
+{
+  "AESound zs": {
+    "name": "AESound zs",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 0
+  },
+  "AldoNovaM": {
+    "name": "AldoNovaM",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 1
+  },
+  "AmbientBlJ": {
+    "name": "AmbientBlJ",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 2
+  },
+  "AmbientFXJ": {
+    "name": "AmbientFXJ",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 3
+  },
+  "ambiRgM zs": {
+    "name": "ambiRgM zs",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 4
+  },
+  "AnHigh  M": {
+    "name": "AnHigh  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 5
+  },
+  "Arcade  BC": {
+    "name": "Arcade  BC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 6
+  },
+  "Atlas    J": {
+    "name": "Atlas    J",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 12,
+    "index": 7
+  },
+  "Attack!  J": {
+    "name": "Attack!  J",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 8
+  },
+  "AutoTknoBC": {
+    "name": "AutoTknoBC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 9
+  },
+  "B-Deep  M": {
+    "name": "B-Deep  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 10
+  },
+  "B-Foe    M": {
+    "name": "B-Foe    M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 11
+  },
+  "BadLand M": {
+    "name": "BadLand M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 12
+  },
+  "BassIk M": {
+    "name": "BassIk M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 13
+  },
+  "basting zs": {
+    "name": "basting zs",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 14
+  },
+  "basting2zs": {
+    "name": "basting2zs",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 15
+  },
+  "bigTung zs": {
+    "name": "bigTung zs",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 16
+  },
+  "Bleu!   M": {
+    "name": "Bleu!   M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 17
+  },
+  "Blotto  M": {
+    "name": "Blotto  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 18
+  },
+  "Bubble2 M": {
+    "name": "Bubble2 M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 19
+  },
+  "CappSt  M": {
+    "name": "CappSt  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 20
+  },
+  "Cavsak M": {
+    "name": "Cavsak M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 21
+  },
+  "cirqStb zs": {
+    "name": "cirqStb zs",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 22
+  },
+  "CLEeeN  M": {
+    "name": "CLEeeN  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 23
+  },
+  "Cloakin M": {
+    "name": "Cloakin M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 24
+  },
+  "cutRes  zs": {
+    "name": "cutRes  zs",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 12,
+    "index": 25
+  },
+  "decDATA1zs": {
+    "name": "decDATA1zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 26
+  },
+  "decDATA2zs": {
+    "name": "decDATA2zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 27
+  },
+  "decDATA3zs": {
+    "name": "decDATA3zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 28
+  },
+  "deciDAT4zs": {
+    "name": "deciDAT4zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 29
+  },
+  "dirty   zs": {
+    "name": "dirty   zs",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 12,
+    "index": 30
+  },
+  "Donky   BC": {
+    "name": "Donky   BC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 31
+  },
+  "dopeEp zs": {
+    "name": "dopeEp zs",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 12,
+    "index": 32
+  },
+  "Dragon  M": {
+    "name": "Dragon  M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 33
+  },
+  "dropIT  zs": {
+    "name": "dropIT  zs",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 34
+  },
+  "drpBomb zs": {
+    "name": "drpBomb zs",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 35
+  },
+  "Drubber BC": {
+    "name": "Drubber BC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 36
+  },
+  "Dry Bass J": {
+    "name": "Dry Bass J",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 37
+  },
+  "dstStep zs": {
+    "name": "dstStep zs",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 12,
+    "index": 38
+  },
+  "Dubsak M": {
+    "name": "Dubsak M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 39
+  },
+  "Dumb!    M": {
+    "name": "Dumb!    M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 40
+  },
+  "Empira 2M": {
+    "name": "Empira 2M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 41
+  },
+  "Entropie J": {
+    "name": "Entropie J",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 42
+  },
+  "Everest  J": {
+    "name": "Everest  J",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 43
+  },
+  "Facial M": {
+    "name": "Facial M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 44
+  },
+  "FePudn zs": {
+    "name": "FePudn zs",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 12,
+    "index": 45
+  },
+  "FlutDrumBC": {
+    "name": "FlutDrumBC",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 12,
+    "index": 46
+  },
+  "fnkStrg zs": {
+    "name": "fnkStrg zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 47
+  },
+  "GBEp3   zs": {
+    "name": "GBEp3   zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 48
+  },
+  "george2 zs": {
+    "name": "george2 zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 49
+  },
+  "GooHat  M": {
+    "name": "GooHat  M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 50
+  },
+  "GotHAM! M": {
+    "name": "GotHAM! M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 51
+  },
+  "HIDEson M": {
+    "name": "HIDEson M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 52
+  },
+  "HiWaves jh": {
+    "name": "HiWaves jh",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 53
+  },
+  "IndustryBC": {
+    "name": "IndustryBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 54
+  },
+  "LepY2 zs": {
+    "name": "LepY2 zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 55
+  },
+  "LepY3 zs": {
+    "name": "LepY3 zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 56
+  },
+  "lootRng zs": {
+    "name": "lootRng zs",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 57
+  },
+  "Lost    M": {
+    "name": "Lost    M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 58
+  },
+  "LowBass jh": {
+    "name": "LowBass jh",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 59
+  },
+  "marimba4zs": {
+    "name": "marimba4zs",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 60
+  },
+  "MeBad?  M": {
+    "name": "MeBad?  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 61
+  },
+  "Menace  M": {
+    "name": "Menace  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 62
+  },
+  "MONose  zs": {
+    "name": "MONose  zs",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 63
+  },
+  "mostHih zs": {
+    "name": "mostHih zs",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 64
+  },
+  "Mr.Big  jh": {
+    "name": "Mr.Big  jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 65
+  },
+  "Mr.Foo M": {
+    "name": "Mr.Foo M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 66
+  },
+  "Necro   M": {
+    "name": "Necro   M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 67
+  },
+  "NoFuture M": {
+    "name": "NoFuture M",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 12,
+    "index": 68
+  },
+  "orguit  zs": {
+    "name": "orguit  zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 69
+  },
+  "Plead   M": {
+    "name": "Plead   M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 70
+  },
+  "Pluka   zs": {
+    "name": "Pluka   zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 71
+  },
+  "PowerStrnJ": {
+    "name": "PowerStrnJ",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 12,
+    "index": 72
+  },
+  "pulsRay zs": {
+    "name": "pulsRay zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 73
+  },
+  "Quarp   BC": {
+    "name": "Quarp   BC",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 12,
+    "index": 74
+  },
+  "RbbrBellBC": {
+    "name": "RbbrBellBC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 75
+  },
+  "ReBird  M": {
+    "name": "ReBird  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 76
+  },
+  "resPad  zs": {
+    "name": "resPad  zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 77
+  },
+  "Reverse  J": {
+    "name": "Reverse  J",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 78
+  },
+  "rmBack  zs": {
+    "name": "rmBack  zs",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 79
+  },
+  "rngPort zs": {
+    "name": "rngPort zs",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 80
+  },
+  "Roboe   zs": {
+    "name": "Roboe   zs",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 81
+  },
+  "RuffLea.jh": {
+    "name": "RuffLea.jh",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 82
+  },
+  "Shifted BC": {
+    "name": "Shifted BC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 83
+  },
+  "ShineChrdJ": {
+    "name": "ShineChrdJ",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 84
+  },
+  "shivrPd zs": {
+    "name": "shivrPd zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 85
+  },
+  "sineZZZ zs": {
+    "name": "sineZZZ zs",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 86
+  },
+  "sinMorf zs": {
+    "name": "sinMorf zs",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 87
+  },
+  "sitar   zs": {
+    "name": "sitar   zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 88
+  },
+  "Skware  zs": {
+    "name": "Skware  zs",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 89
+  },
+  "smoovLd zs": {
+    "name": "smoovLd zs",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 90
+  },
+  "SoftBell J": {
+    "name": "SoftBell J",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 91
+  },
+  "Softi    J": {
+    "name": "Softi    J",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 92
+  },
+  "SoftSeq. J": {
+    "name": "SoftSeq. J",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 93
+  },
+  "sofueMODzs": {
+    "name": "sofueMODzs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 94
+  },
+  "SoSad  M": {
+    "name": "SoSad  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 95
+  },
+  "SpaceNighJ": {
+    "name": "SpaceNighJ",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 12,
+    "index": 96
+  },
+  "spasDrv zs": {
+    "name": "spasDrv zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 97
+  },
+  "Spinner  M": {
+    "name": "Spinner  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 98
+  },
+  "spoolPd zs": {
+    "name": "spoolPd zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 99
+  },
+  "sqPadMM zs": {
+    "name": "sqPadMM zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 100
+  },
+  "squar00 zs": {
+    "name": "squar00 zs",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 101
+  },
+  "Sr.Goo M": {
+    "name": "Sr.Goo M",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 102
+  },
+  "step2it zs": {
+    "name": "step2it zs",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 12,
+    "index": 103
+  },
+  "Subbass zs": {
+    "name": "Subbass zs",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 104
+  },
+  "Sunday  M": {
+    "name": "Sunday  M",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 12,
+    "index": 105
+  },
+  "Tomita   J": {
+    "name": "Tomita   J",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 12,
+    "index": 106
+  },
+  "Torque": {
+    "name": "Torque",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 107
+  },
+  "UfO 4   M": {
+    "name": "UfO 4   M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 108
+  },
+  "UKG     BC": {
+    "name": "UKG     BC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 109
+  },
+  "UKG2    BC": {
+    "name": "UKG2    BC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 12,
+    "index": 110
+  },
+  "V-Acid#4 M": {
+    "name": "V-Acid#4 M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 111
+  },
+  "V-Acid#7 M": {
+    "name": "V-Acid#7 M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 112
+  },
+  "V_Acid#9 M": {
+    "name": "V_Acid#9 M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 113
+  },
+  "VCS 3a   J": {
+    "name": "VCS 3a   J",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 114
+  },
+  "videoG1 zs": {
+    "name": "videoG1 zs",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 115
+  },
+  "videoG2 zs": {
+    "name": "videoG2 zs",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 116
+  },
+  "videoG4 zs": {
+    "name": "videoG4 zs",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 117
+  },
+  "waowLd  zs": {
+    "name": "waowLd  zs",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 12,
+    "index": 118
+  },
+  "Weazel  M": {
+    "name": "Weazel  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 12,
+    "index": 119
+  },
+  "WetThn  zs": {
+    "name": "WetThn  zs",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 12,
+    "index": 120
+  },
+  "wire 1  BC": {
+    "name": "wire 1  BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 121
+  },
+  "Wobble  M": {
+    "name": "Wobble  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 122
+  },
+  "xPandr  zs": {
+    "name": "xPandr  zs",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 12,
+    "index": 123
+  },
+  "yahy    zs": {
+    "name": "yahy    zs",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 124
+  },
+  "Yeao!  M": {
+    "name": "Yeao!  M",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 12,
+    "index": 125
+  },
+  "ZartPad  J": {
+    "name": "ZartPad  J",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 12,
+    "index": 126
+  },
+  "Zupfi    J": {
+    "name": "Zupfi    J",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 12,
+    "index": 127
+  }
+}

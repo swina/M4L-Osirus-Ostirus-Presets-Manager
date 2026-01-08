@@ -1,0 +1,898 @@
+{
+  "AccMW   JL": {
+    "name": "AccMW   JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 0
+  },
+  "AfterpadCC": {
+    "name": "AfterpadCC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 42,
+    "index": 1
+  },
+  "AM Keys BC": {
+    "name": "AM Keys BC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 42,
+    "index": 2
+  },
+  "Andy'sGR @": {
+    "name": "Andy'sGR @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 3
+  },
+  "=<*\"|   CM": {
+    "name": "=<*\"|   CM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 4
+  },
+  "ArtifactJL": {
+    "name": "ArtifactJL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 5
+  },
+  "AstralPdJL": {
+    "name": "AstralPdJL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 6
+  },
+  "AT FrqPdBC": {
+    "name": "AT FrqPdBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 7
+  },
+  "B@dRezo": {
+    "name": "B@dRezo",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 8
+  },
+  ")~%=+   CM": {
+    "name": ")~%=+   CM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 9
+  },
+  "Bell6th  @": {
+    "name": "Bell6th  @",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 42,
+    "index": 10
+  },
+  "Bellt@ble": {
+    "name": "Bellt@ble",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 42,
+    "index": 11
+  },
+  "BelzBelz @": {
+    "name": "BelzBelz @",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 12
+  },
+  "Bone    JL": {
+    "name": "Bone    JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 42,
+    "index": 13
+  },
+  "+,.     CM": {
+    "name": "+,.     CM",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 42,
+    "index": 14
+  },
+  "Chant   JL": {
+    "name": "Chant   JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 15
+  },
+  "Curtain BC": {
+    "name": "Curtain BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 16
+  },
+  "DigiBel6 @": {
+    "name": "DigiBel6 @",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 42,
+    "index": 17
+  },
+  "DlayVerb!@": {
+    "name": "DlayVerb!@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 18
+  },
+  ",~J>{   CM": {
+    "name": ",~J>{   CM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 19
+  },
+  "DoomBellJL": {
+    "name": "DoomBellJL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 42,
+    "index": 20
+  },
+  "EmKayEss@": {
+    "name": "EmKayEss@",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 42,
+    "index": 21
+  },
+  "EPPGp@+Bel": {
+    "name": "EPPGp@+Bel",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 42,
+    "index": 22
+  },
+  "EvilNoyzM@": {
+    "name": "EvilNoyzM@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 23
+  },
+  ";<*\"|'  CM": {
+    "name": ";<*\"|'  CM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 42,
+    "index": 24
+  },
+  "Flys    CC": {
+    "name": "Flys    CC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 25
+  },
+  "GlitchHit@": {
+    "name": "GlitchHit@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 26
+  },
+  "H@acker": {
+    "name": "H@acker",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 42,
+    "index": 27
+  },
+  "J@peE.Ate": {
+    "name": "J@peE.Ate",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 28
+  },
+  ";<+\"?   CM": {
+    "name": ";<+\"?   CM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 42,
+    "index": 29
+  },
+  "L@byrinth": {
+    "name": "L@byrinth",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 42,
+    "index": 30
+  },
+  "LFOhB@by": {
+    "name": "LFOhB@by",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 42,
+    "index": 31
+  },
+  "M@trix1000": {
+    "name": "M@trix1000",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 42,
+    "index": 32
+  },
+  "ModelA100@": {
+    "name": "ModelA100@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 33
+  },
+  "<`[^]   CM": {
+    "name": "<`[^]   CM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 42,
+    "index": 34
+  },
+  "Mr.Kite  @": {
+    "name": "Mr.Kite  @",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 42,
+    "index": 35
+  },
+  "MrKitinaJL": {
+    "name": "MrKitinaJL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 36
+  },
+  "NghtTme JL": {
+    "name": "NghtTme JL",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 42,
+    "index": 37
+  },
+  "Pad 4AD XM": {
+    "name": "Pad 4AD XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 38
+  },
+  "=;:-+   CM": {
+    "name": "=;:-+   CM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 39
+  },
+  "Positiv JL": {
+    "name": "Positiv JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 42,
+    "index": 40
+  },
+  "PPGWavesCC": {
+    "name": "PPGWavesCC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 41
+  },
+  "Ramped  BC": {
+    "name": "Ramped  BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 42
+  },
+  "S@y \"TI\"": {
+    "name": "S@y \"TI\"",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 43
+  },
+  "=<*     CM": {
+    "name": "=<*     CM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 44
+  },
+  "Scores  jh": {
+    "name": "Scores  jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 45
+  },
+  "Sick 2  CL": {
+    "name": "Sick 2  CL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 46
+  },
+  "SpcMonkyJL": {
+    "name": "SpcMonkyJL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 47
+  },
+  "Spirits JL": {
+    "name": "Spirits JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 48
+  },
+  "`[\\     CM": {
+    "name": "`[\\     CM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 49
+  },
+  ">=.)*^  CM": {
+    "name": ">=.)*^  CM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 50
+  },
+  "StutrVoxBC": {
+    "name": "StutrVoxBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 51
+  },
+  "SwmpThngBC": {
+    "name": "SwmpThngBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 52
+  },
+  "_)+'    CM": {
+    "name": "_)+'    CM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 42,
+    "index": 53
+  },
+  "Table@ir": {
+    "name": "Table@ir",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 54
+  },
+  "The Val.jh": {
+    "name": "The Val.jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 55
+  },
+  "~`\\>    CM": {
+    "name": "~`\\>    CM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 42,
+    "index": 56
+  },
+  "Tiam@t": {
+    "name": "Tiam@t",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 42,
+    "index": 57
+  },
+  "TortrPadBC": {
+    "name": "TortrPadBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 58
+  },
+  "~*\\>*   CM": {
+    "name": "~*\\>*   CM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 42,
+    "index": 59
+  },
+  "TransqilSV": {
+    "name": "TransqilSV",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 60
+  },
+  "TrncslidSV": {
+    "name": "TrncslidSV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 61
+  },
+  ",.)'    CM": {
+    "name": ",.)'    CM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 62
+  },
+  ">:\"'    CM": {
+    "name": ">:\"'    CM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 42,
+    "index": 63
+  },
+  "Two keysSV": {
+    "name": "Two keysSV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 64
+  },
+  "Vampyr   @": {
+    "name": "Vampyr   @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 65
+  },
+  "\"')     CM": {
+    "name": "\"')     CM",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 42,
+    "index": 66
+  },
+  "VilePad JL": {
+    "name": "VilePad JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 67
+  },
+  "\"'*')   CM": {
+    "name": "\"'*')   CM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 68
+  },
+  "VolesGrng@": {
+    "name": "VolesGrng@",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 42,
+    "index": 69
+  },
+  "Voyager JL": {
+    "name": "Voyager JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 42,
+    "index": 70
+  },
+  "Warped  JL": {
+    "name": "Warped  JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 71
+  },
+  "Xu@rn": {
+    "name": "Xu@rn",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 42,
+    "index": 72
+  },
+  ";<.-    CM": {
+    "name": ";<.-    CM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 42,
+    "index": 73
+  },
+  "VocoPad XM": {
+    "name": "VocoPad XM",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 74
+  },
+  "VOC five": {
+    "name": "VOC five",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 75
+  },
+  "VOC osc 1": {
+    "name": "VOC osc 1",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 76
+  },
+  "VOC pad": {
+    "name": "VOC pad",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 77
+  },
+  "VOC pwm": {
+    "name": "VOC pwm",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 78
+  },
+  "VOC waves": {
+    "name": "VOC waves",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 79
+  },
+  "VOC crisp": {
+    "name": "VOC crisp",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 80
+  },
+  "VOC tube": {
+    "name": "VOC tube",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 81
+  },
+  "VOC walker": {
+    "name": "VOC walker",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 82
+  },
+  "VOC noise": {
+    "name": "VOC noise",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 83
+  },
+  "VOC reso": {
+    "name": "VOC reso",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 84
+  },
+  "VOC revers": {
+    "name": "VOC revers",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 85
+  },
+  "VOC bell 1": {
+    "name": "VOC bell 1",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 86
+  },
+  "VOC twelve": {
+    "name": "VOC twelve",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 87
+  },
+  "VOC narrow": {
+    "name": "VOC narrow",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 88
+  },
+  "VOC diffus": {
+    "name": "VOC diffus",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 89
+  },
+  "VOC lfo": {
+    "name": "VOC lfo",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 90
+  },
+  "VOC bell 2": {
+    "name": "VOC bell 2",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 91
+  },
+  "VOC four": {
+    "name": "VOC four",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 92
+  },
+  "VOC three": {
+    "name": "VOC three",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 93
+  },
+  "VOC two": {
+    "name": "VOC two",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 94
+  },
+  "VOC one": {
+    "name": "VOC one",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 42,
+    "index": 95
+  },
+  "SplddVOCJL": {
+    "name": "SplddVOCJL",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 96
+  },
+  "INP clean": {
+    "name": "INP clean",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 97
+  },
+  "INP lowpas": {
+    "name": "INP lowpas",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 98
+  },
+  "INP reso": {
+    "name": "INP reso",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 99
+  },
+  "INP hipass": {
+    "name": "INP hipass",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 100
+  },
+  "INP bandps": {
+    "name": "INP bandps",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 101
+  },
+  "INP double": {
+    "name": "INP double",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 102
+  },
+  "INP flange": {
+    "name": "INP flange",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 103
+  },
+  "INP key": {
+    "name": "INP key",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 104
+  },
+  "INP keyfol": {
+    "name": "INP keyfol",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 105
+  },
+  "INP pad": {
+    "name": "INP pad",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 106
+  },
+  "INP arp": {
+    "name": "INP arp",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 42,
+    "index": 107
+  },
+  "INP sat": {
+    "name": "INP sat",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 108
+  },
+  "INP amp": {
+    "name": "INP amp",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 109
+  },
+  "INP shaper": {
+    "name": "INP shaper",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 110
+  },
+  "LOOPKILL1b": {
+    "name": "LOOPKILL1b",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 111
+  },
+  "LOOPKILL2b": {
+    "name": "LOOPKILL2b",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 112
+  },
+  "LOOPKILL3b": {
+    "name": "LOOPKILL3b",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 42,
+    "index": 113
+  },
+  "FLWTHIS01b": {
+    "name": "FLWTHIS01b",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 114
+  },
+  "FLWTHIS02b": {
+    "name": "FLWTHIS02b",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 115
+  },
+  "LP FadeATM": {
+    "name": "LP FadeATM",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 42,
+    "index": 116
+  },
+  "HP FadeATM": {
+    "name": "HP FadeATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 117
+  },
+  "LP FadeATM_1": {
+    "name": "LP FadeATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 118
+  },
+  "DubEchoATM": {
+    "name": "DubEchoATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 119
+  },
+  "Evil   ATM": {
+    "name": "Evil   ATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 120
+  },
+  "AT>PhasATM": {
+    "name": "AT>PhasATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 121
+  },
+  "AT>PhasATM_1": {
+    "name": "AT>PhasATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 122
+  },
+  "AT>RedxATM": {
+    "name": "AT>RedxATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 123
+  },
+  "AT>RctfATM": {
+    "name": "AT>RctfATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 124
+  },
+  "<Rect  ATM": {
+    "name": "<Rect  ATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 125
+  },
+  "Raw    ATM": {
+    "name": "Raw    ATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 126
+  },
+  "-INIT- ATM": {
+    "name": "-INIT- ATM",
+    "category": "Cat:22",
+    "category_id": 22,
+    "bank_id": 42,
+    "index": 127
+  }
+}

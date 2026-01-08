@@ -1,0 +1,898 @@
+{
+  "2-Brass RP": {
+    "name": "2-Brass RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 0
+  },
+  "2-Burst RP": {
+    "name": "2-Burst RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 1
+  },
+  "2-CHORD RP": {
+    "name": "2-CHORD RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 2
+  },
+  "7thCORD RP": {
+    "name": "7thCORD RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 3
+  },
+  "80s     RP": {
+    "name": "80s     RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 4
+  },
+  "101BASS RP": {
+    "name": "101BASS RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 5
+  },
+  "101-SUB RP": {
+    "name": "101-SUB RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 6
+  },
+  "AlfBass RP": {
+    "name": "AlfBass RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 7
+  },
+  "ARP-BD2 RP": {
+    "name": "ARP-BD2 RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 8
+  },
+  "ARP-HH2 RP": {
+    "name": "ARP-HH2 RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 9
+  },
+  "BANDPAD RP": {
+    "name": "BANDPAD RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 10
+  },
+  "BASS ME RP": {
+    "name": "BASS ME RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 11
+  },
+  "BASS-O  RP": {
+    "name": "BASS-O  RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 12
+  },
+  "BE-ME   RP": {
+    "name": "BE-ME   RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 13
+  },
+  "BE-TWO  RP": {
+    "name": "BE-TWO  RP",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 8,
+    "index": 14
+  },
+  "BOWED   RP": {
+    "name": "BOWED   RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 15
+  },
+  "BPM-PAD RP": {
+    "name": "BPM-PAD RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 16
+  },
+  "BRASS-1 RP": {
+    "name": "BRASS-1 RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 17
+  },
+  "BRASS-2 RP": {
+    "name": "BRASS-2 RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 18
+  },
+  "BRASS-8 RP": {
+    "name": "BRASS-8 RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 19
+  },
+  "CHORD-U RP": {
+    "name": "CHORD-U RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 20
+  },
+  "CLOCKED RP": {
+    "name": "CLOCKED RP",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 8,
+    "index": 21
+  },
+  "CLUB-TO RP": {
+    "name": "CLUB-TO RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 22
+  },
+  "CORD 1  RP": {
+    "name": "CORD 1  RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 23
+  },
+  "CORDY   RP": {
+    "name": "CORDY   RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 24
+  },
+  "DEEBASS RP": {
+    "name": "DEEBASS RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 25
+  },
+  "DIS-BD  RP": {
+    "name": "DIS-BD  RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 26
+  },
+  "DSP-SEQ RP": {
+    "name": "DSP-SEQ RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 27
+  },
+  "DSP-V   RP": {
+    "name": "DSP-V   RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 28
+  },
+  "DX-OEM  RP": {
+    "name": "DX-OEM  RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 29
+  },
+  "DX-VE   RP": {
+    "name": "DX-VE   RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 30
+  },
+  "EASE    RP": {
+    "name": "EASE    RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 31
+  },
+  "E-CORD  RP": {
+    "name": "E-CORD  RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 32
+  },
+  "eXtream RP": {
+    "name": "eXtream RP",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 8,
+    "index": 33
+  },
+  "FAT-SN. RP": {
+    "name": "FAT-SN. RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 34
+  },
+  "FENDERB RP": {
+    "name": "FENDERB RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 35
+  },
+  "FILTERS RP": {
+    "name": "FILTERS RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 36
+  },
+  "FLUBBER RP": {
+    "name": "FLUBBER RP",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 8,
+    "index": 37
+  },
+  "GO BASS RP": {
+    "name": "GO BASS RP",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 8,
+    "index": 38
+  },
+  "HAWSCH  RP": {
+    "name": "HAWSCH  RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 39
+  },
+  "HENDRIX RP": {
+    "name": "HENDRIX RP",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 8,
+    "index": 40
+  },
+  "Howner  RP": {
+    "name": "Howner  RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 41
+  },
+  "IQsnare RP": {
+    "name": "IQsnare RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 42
+  },
+  "K-Organ RP": {
+    "name": "K-Organ RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 43
+  },
+  "K-WERK1 RP": {
+    "name": "K-WERK1 RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 44
+  },
+  "K-WERK2 RP": {
+    "name": "K-WERK2 RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 45
+  },
+  "K-Werk3 RP": {
+    "name": "K-Werk3 RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 46
+  },
+  "LowKick RP": {
+    "name": "LowKick RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 47
+  },
+  "MAXWave RP": {
+    "name": "MAXWave RP",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 8,
+    "index": 48
+  },
+  "MELLOTR.RP": {
+    "name": "MELLOTR.RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 49
+  },
+  "MISTERY RP": {
+    "name": "MISTERY RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 50
+  },
+  "MooBass RP": {
+    "name": "MooBass RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 51
+  },
+  "MO-TJO  RP": {
+    "name": "MO-TJO  RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 52
+  },
+  "MOVER   RP": {
+    "name": "MOVER   RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 53
+  },
+  "MS-10 1 RP": {
+    "name": "MS-10 1 RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 54
+  },
+  "MS-10 2 RP": {
+    "name": "MS-10 2 RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 55
+  },
+  "MS-99   RP": {
+    "name": "MS-99   RP",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 8,
+    "index": 56
+  },
+  "NABASS  RP": {
+    "name": "NABASS  RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 57
+  },
+  "NOISeAA RP": {
+    "name": "NOISeAA RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 58
+  },
+  "NO-TJO  RP": {
+    "name": "NO-TJO  RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 59
+  },
+  "NOT-PAD#RP": {
+    "name": "NOT-PAD#RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 60
+  },
+  "OBY-PAD RP": {
+    "name": "OBY-PAD RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 61
+  },
+  "O-ME-2  RP": {
+    "name": "O-ME-2  RP",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 8,
+    "index": 62
+  },
+  "Omnef   RP": {
+    "name": "Omnef   RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 63
+  },
+  "OZ-LEAD RP": {
+    "name": "OZ-LEAD RP",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 8,
+    "index": 64
+  },
+  "P6OO    RP": {
+    "name": "P6OO    RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 65
+  },
+  "PAD-FLG RP": {
+    "name": "PAD-FLG RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 66
+  },
+  "PADINGS RP": {
+    "name": "PADINGS RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 67
+  },
+  "PHASA   RP": {
+    "name": "PHASA   RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 68
+  },
+  "PickGTR RP": {
+    "name": "PickGTR RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 69
+  },
+  "P-LEAD  RP": {
+    "name": "P-LEAD  RP",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 8,
+    "index": 70
+  },
+  "PolyPha RP": {
+    "name": "PolyPha RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 71
+  },
+  "P-ORGAN RP": {
+    "name": "P-ORGAN RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 72
+  },
+  "PRO-12  RP": {
+    "name": "PRO-12  RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 73
+  },
+  "Q-TECK  RP": {
+    "name": "Q-TECK  RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 74
+  },
+  "QT-SOFT RP": {
+    "name": "QT-SOFT RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 75
+  },
+  "RE-BASS RP": {
+    "name": "RE-BASS RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 76
+  },
+  "RIBASS  RP": {
+    "name": "RIBASS  RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 77
+  },
+  "ROBASS  RP": {
+    "name": "ROBASS  RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 78
+  },
+  "ROBOPAD RP": {
+    "name": "ROBOPAD RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 79
+  },
+  "R-PEGGI RP": {
+    "name": "R-PEGGI RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 80
+  },
+  "SADINGS RP": {
+    "name": "SADINGS RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 81
+  },
+  "SFX-VC3 RP": {
+    "name": "SFX-VC3 RP",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 8,
+    "index": 82
+  },
+  "SFX-?X~ RP": {
+    "name": "SFX-?X~ RP",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 8,
+    "index": 83
+  },
+  "SH-123  RP": {
+    "name": "SH-123  RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 84
+  },
+  "SHYCUS  RP": {
+    "name": "SHYCUS  RP",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 8,
+    "index": 85
+  },
+  "SNARE X RP": {
+    "name": "SNARE X RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 86
+  },
+  "SoLead  RP": {
+    "name": "SoLead  RP",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 8,
+    "index": 87
+  },
+  "SORRY   RP": {
+    "name": "SORRY   RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 88
+  },
+  "STEVIE  RP": {
+    "name": "STEVIE  RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 89
+  },
+  "STR-ARP RP": {
+    "name": "STR-ARP RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 90
+  },
+  "STR-II  RP": {
+    "name": "STR-II  RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 91
+  },
+  "STRINGS RP": {
+    "name": "STRINGS RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 92
+  },
+  "STR-WoW RP": {
+    "name": "STR-WoW RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 93
+  },
+  "T-8     RP": {
+    "name": "T-8     RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 94
+  },
+  "T-DREAM RP": {
+    "name": "T-DREAM RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 95
+  },
+  "TD-SEQ  RP": {
+    "name": "TD-SEQ  RP",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 8,
+    "index": 96
+  },
+  "TEC-ARP RP": {
+    "name": "TEC-ARP RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 97
+  },
+  "TECBASS RP": {
+    "name": "TECBASS RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 98
+  },
+  "TEC-MOS RP": {
+    "name": "TEC-MOS RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 99
+  },
+  "TEC-NOS RP": {
+    "name": "TEC-NOS RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 100
+  },
+  "TEC-STR RP": {
+    "name": "TEC-STR RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 101
+  },
+  "TE-T42  RP": {
+    "name": "TE-T42  RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 102
+  },
+  "TF BASS RP": {
+    "name": "TF BASS RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 103
+  },
+  "THE-BD2 RP": {
+    "name": "THE-BD2 RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 104
+  },
+  "TI-BASS RP": {
+    "name": "TI-BASS RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 105
+  },
+  "TING    RP": {
+    "name": "TING    RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 106
+  },
+  "TOMBASS RP": {
+    "name": "TOMBASS RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 107
+  },
+  "T-ORGAN RP": {
+    "name": "T-ORGAN RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 108
+  },
+  "V-2-U   RP": {
+    "name": "V-2-U   RP",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 8,
+    "index": 109
+  },
+  "VARPEG  RP": {
+    "name": "VARPEG  RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 110
+  },
+  "V Cl.HH RP": {
+    "name": "V Cl.HH RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 111
+  },
+  "VELO-ME RP": {
+    "name": "VELO-ME RP",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 8,
+    "index": 112
+  },
+  "VeloPEW RP": {
+    "name": "VeloPEW RP",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 8,
+    "index": 113
+  },
+  "VICHORD RP": {
+    "name": "VICHORD RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 114
+  },
+  "Vi-Rtro RP": {
+    "name": "Vi-Rtro RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 115
+  },
+  "VITAR   RP": {
+    "name": "VITAR   RP",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 8,
+    "index": 116
+  },
+  "VO-PAD  RP": {
+    "name": "VO-PAD  RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 117
+  },
+  "V Op.HH RP": {
+    "name": "V Op.HH RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 118
+  },
+  "VR-78 1 RP": {
+    "name": "VR-78 1 RP",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 8,
+    "index": 119
+  },
+  "VR-78 2 RP": {
+    "name": "VR-78 2 RP",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 8,
+    "index": 120
+  },
+  "Whl-PAD RP": {
+    "name": "Whl-PAD RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 121
+  },
+  "WINDO   RP": {
+    "name": "WINDO   RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 8,
+    "index": 122
+  },
+  "Wurly   RP": {
+    "name": "Wurly   RP",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 8,
+    "index": 123
+  },
+  "X0X KCK RP": {
+    "name": "X0X KCK RP",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 8,
+    "index": 124
+  },
+  "X MEAN  RP": {
+    "name": "X MEAN  RP",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 8,
+    "index": 125
+  },
+  "=BASS=  RP": {
+    "name": "=BASS=  RP",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 8,
+    "index": 126
+  },
+  "??F=V   RP": {
+    "name": "??F=V   RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 8,
+    "index": 127
+  }
+}

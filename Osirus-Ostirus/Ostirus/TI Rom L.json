@@ -1,0 +1,898 @@
+{
+  "8BitHellXM": {
+    "name": "8BitHellXM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 0
+  },
+  "8-bitPadXM": {
+    "name": "8-bitPadXM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 1
+  },
+  "AcidLineXM": {
+    "name": "AcidLineXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 2
+  },
+  "AllRoundXM": {
+    "name": "AllRoundXM",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 14,
+    "index": 3
+  },
+  "AngstPadXM": {
+    "name": "AngstPadXM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 4
+  },
+  "Bass 87 XM": {
+    "name": "Bass 87 XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 5
+  },
+  "BD 3-4  XM": {
+    "name": "BD 3-4  XM",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 14,
+    "index": 6
+  },
+  "Bombast jh": {
+    "name": "Bombast jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 7
+  },
+  "BP Pad  XM": {
+    "name": "BP Pad  XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 8
+  },
+  "BPGrooveXM": {
+    "name": "BPGrooveXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 9
+  },
+  "BpHpOsc XM": {
+    "name": "BpHpOsc XM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 10
+  },
+  "CheezArpXM": {
+    "name": "CheezArpXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 11
+  },
+  "CheezLd XM": {
+    "name": "CheezLd XM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 14,
+    "index": 12
+  },
+  "CheezMasXM": {
+    "name": "CheezMasXM",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 14,
+    "index": 13
+  },
+  "ChoBell jh": {
+    "name": "ChoBell jh",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 14,
+    "index": 14
+  },
+  "ComeOne XM": {
+    "name": "ComeOne XM",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 14,
+    "index": 15
+  },
+  "Cydonia1XM": {
+    "name": "Cydonia1XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 16
+  },
+  "Cydonia2XM": {
+    "name": "Cydonia2XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 17
+  },
+  "DaBrain jh": {
+    "name": "DaBrain jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 18
+  },
+  "DeepAb  XM": {
+    "name": "DeepAb  XM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 19
+  },
+  "Detuner XM": {
+    "name": "Detuner XM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 14,
+    "index": 20
+  },
+  "DigeriduXM": {
+    "name": "DigeriduXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 21
+  },
+  "DigiGrv XM": {
+    "name": "DigiGrv XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 22
+  },
+  "DigiScrmXM": {
+    "name": "DigiScrmXM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 23
+  },
+  "DistArp1XM": {
+    "name": "DistArp1XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 24
+  },
+  "DistArp2XM": {
+    "name": "DistArp2XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 25
+  },
+  "DistBassXM": {
+    "name": "DistBassXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 26
+  },
+  "DistLd1 XM": {
+    "name": "DistLd1 XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 27
+  },
+  "DistLd2 XM": {
+    "name": "DistLd2 XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 28
+  },
+  "DistortaXM": {
+    "name": "DistortaXM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 29
+  },
+  "DistRez XM": {
+    "name": "DistRez XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 30
+  },
+  "DrunkET XM": {
+    "name": "DrunkET XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 31
+  },
+  "DrunkSpcXM": {
+    "name": "DrunkSpcXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 32
+  },
+  "Du Hast XM": {
+    "name": "Du Hast XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 33
+  },
+  "EBM Ld1 XM": {
+    "name": "EBM Ld1 XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 34
+  },
+  "EBM Ld2 XM": {
+    "name": "EBM Ld2 XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 35
+  },
+  "EBMBass1XM": {
+    "name": "EBMBass1XM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 14,
+    "index": 36
+  },
+  "EBMBass2XM": {
+    "name": "EBMBass2XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 37
+  },
+  "Error   XM": {
+    "name": "Error   XM",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 14,
+    "index": 38
+  },
+  "EvilDeadXM": {
+    "name": "EvilDeadXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 39
+  },
+  "EvilLeadXM": {
+    "name": "EvilLeadXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 40
+  },
+  "Feeder  XM": {
+    "name": "Feeder  XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 41
+  },
+  "Front242XM": {
+    "name": "Front242XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 42
+  },
+  "FutureBsXM": {
+    "name": "FutureBsXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 43
+  },
+  "FuturEP XM": {
+    "name": "FuturEP XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 44
+  },
+  "GoGrooveXM": {
+    "name": "GoGrooveXM",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 14,
+    "index": 45
+  },
+  "Groov7thXM": {
+    "name": "Groov7thXM",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 14,
+    "index": 46
+  },
+  "HardHousXM": {
+    "name": "HardHousXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 47
+  },
+  "HP Bass XM": {
+    "name": "HP Bass XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 48
+  },
+  "IconArp XM": {
+    "name": "IconArp XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 49
+  },
+  "Intense XM": {
+    "name": "Intense XM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 14,
+    "index": 50
+  },
+  "IOC 3-4 XM": {
+    "name": "IOC 3-4 XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 51
+  },
+  "IOC BassXM": {
+    "name": "IOC BassXM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 52
+  },
+  "IOCBass1XM": {
+    "name": "IOCBass1XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 53
+  },
+  "JeanLeadXM": {
+    "name": "JeanLeadXM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 54
+  },
+  "JMJ Arp XM": {
+    "name": "JMJ Arp XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 55
+  },
+  "Killers XM": {
+    "name": "Killers XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 56
+  },
+  "KraftArpXM": {
+    "name": "KraftArpXM",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 14,
+    "index": 57
+  },
+  "LectroLdXM": {
+    "name": "LectroLdXM",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 14,
+    "index": 58
+  },
+  "LFOmove jh": {
+    "name": "LFOmove jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 59
+  },
+  "LoTatar jh": {
+    "name": "LoTatar jh",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 60
+  },
+  "Mad LFO XM": {
+    "name": "Mad LFO XM",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 14,
+    "index": 61
+  },
+  "Mamamia jh": {
+    "name": "Mamamia jh",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 14,
+    "index": 62
+  },
+  "Massive XM": {
+    "name": "Massive XM",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 14,
+    "index": 63
+  },
+  "Mayhem  XM": {
+    "name": "Mayhem  XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 64
+  },
+  "Mellow  XM": {
+    "name": "Mellow  XM",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 14,
+    "index": 65
+  },
+  "MelodiBzXM": {
+    "name": "MelodiBzXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 66
+  },
+  "MelodiTWXM": {
+    "name": "MelodiTWXM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 67
+  },
+  "MeloDM  XM": {
+    "name": "MeloDM  XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 68
+  },
+  "MeltArp1XM": {
+    "name": "MeltArp1XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 69
+  },
+  "MeltArp2XM": {
+    "name": "MeltArp2XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 70
+  },
+  "MeltBassXM": {
+    "name": "MeltBassXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 71
+  },
+  "Melter  XM": {
+    "name": "Melter  XM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 72
+  },
+  "MeltGrv XM": {
+    "name": "MeltGrv XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 73
+  },
+  "MeltIntrXM": {
+    "name": "MeltIntrXM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 74
+  },
+  "MeltSyn XM": {
+    "name": "MeltSyn XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 75
+  },
+  "MoonArp XM": {
+    "name": "MoonArp XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 76
+  },
+  "MoonBassXM": {
+    "name": "MoonBassXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 77
+  },
+  "MoonLeadXM": {
+    "name": "MoonLeadXM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 14,
+    "index": 78
+  },
+  "New IOC XM": {
+    "name": "New IOC XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 79
+  },
+  "NitzerBsXM": {
+    "name": "NitzerBsXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 80
+  },
+  "NoizBassXM": {
+    "name": "NoizBassXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 81
+  },
+  "NuSkool jh": {
+    "name": "NuSkool jh",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 82
+  },
+  "O My GodXM": {
+    "name": "O My GodXM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 83
+  },
+  "OffBass XM": {
+    "name": "OffBass XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 84
+  },
+  "OffLoop XM": {
+    "name": "OffLoop XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 85
+  },
+  "Ol'SkoolXM": {
+    "name": "Ol'SkoolXM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 14,
+    "index": 86
+  },
+  "OldLead jh": {
+    "name": "OldLead jh",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 87
+  },
+  "OscilateXM": {
+    "name": "OscilateXM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 88
+  },
+  "OutThereXM": {
+    "name": "OutThereXM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 89
+  },
+  "PB AlienXM": {
+    "name": "PB AlienXM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 90
+  },
+  "PhaseLd XM": {
+    "name": "PhaseLd XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 91
+  },
+  "PhasrArpXM": {
+    "name": "PhasrArpXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 92
+  },
+  "PlainBasXM": {
+    "name": "PlainBasXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 93
+  },
+  "PPG TI  jh": {
+    "name": "PPG TI  jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 94
+  },
+  "Pro1-FX XM": {
+    "name": "Pro1-FX XM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 95
+  },
+  "RatPack jh": {
+    "name": "RatPack jh",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 96
+  },
+  "ResoMeloXM": {
+    "name": "ResoMeloXM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 97
+  },
+  "RezArp  XM": {
+    "name": "RezArp  XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 98
+  },
+  "RezPad  XM": {
+    "name": "RezPad  XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 99
+  },
+  "RezStrngXM": {
+    "name": "RezStrngXM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 100
+  },
+  "S9 Loop XM": {
+    "name": "S9 Loop XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 101
+  },
+  "S9GrooveXM": {
+    "name": "S9GrooveXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 102
+  },
+  "S9GrooveXM_1": {
+    "name": "S9GrooveXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 103
+  },
+  "SawArp  XM": {
+    "name": "SawArp  XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 104
+  },
+  "SawComm XM": {
+    "name": "SawComm XM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 14,
+    "index": 105
+  },
+  "Scores  jh": {
+    "name": "Scores  jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 106
+  },
+  "ScrmArp XM": {
+    "name": "ScrmArp XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 107
+  },
+  "ShalloBsXM": {
+    "name": "ShalloBsXM",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 14,
+    "index": 108
+  },
+  "ShoutLd XM": {
+    "name": "ShoutLd XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 109
+  },
+  "Simul8r XM": {
+    "name": "Simul8r XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 110
+  },
+  "Sinus9  XM": {
+    "name": "Sinus9  XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 14,
+    "index": 111
+  },
+  "SpaceLabXM": {
+    "name": "SpaceLabXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 112
+  },
+  "SqrArp2 XM": {
+    "name": "SqrArp2 XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 113
+  },
+  "SqrArp2 XM_1": {
+    "name": "SqrArp2 XM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 114
+  },
+  "SqrBass XM": {
+    "name": "SqrBass XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 115
+  },
+  "SubBass XM": {
+    "name": "SubBass XM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 116
+  },
+  "SweetSqrXM": {
+    "name": "SweetSqrXM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 117
+  },
+  "SynthPopXM": {
+    "name": "SynthPopXM",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 14,
+    "index": 118
+  },
+  "Talker  XM": {
+    "name": "Talker  XM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 119
+  },
+  "TranzArpXM": {
+    "name": "TranzArpXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 120
+  },
+  "TranzBasXM": {
+    "name": "TranzBasXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 121
+  },
+  "U F O   XM": {
+    "name": "U F O   XM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 14,
+    "index": 122
+  },
+  "UndawrldXM": {
+    "name": "UndawrldXM",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 14,
+    "index": 123
+  },
+  "VocoPad XM": {
+    "name": "VocoPad XM",
+    "category": "Cat:13",
+    "category_id": 13,
+    "bank_id": 14,
+    "index": 124
+  },
+  "WetSqrBsXM": {
+    "name": "WetSqrBsXM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 14,
+    "index": 125
+  },
+  "XMorphLdXM": {
+    "name": "XMorphLdXM",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 14,
+    "index": 126
+  },
+  "XMorphLpXM": {
+    "name": "XMorphLpXM",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 14,
+    "index": 127
+  }
+}

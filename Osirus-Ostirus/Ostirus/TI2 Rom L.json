@@ -1,0 +1,898 @@
+{
+  "S-1973  @": {
+    "name": "S-1973  @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 0
+  },
+  "x(o-o)x @": {
+    "name": "x(o-o)x @",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 1
+  },
+  "100 tinoPX": {
+    "name": "100 tinoPX",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 33,
+    "index": 2
+  },
+  "3001 SO PX": {
+    "name": "3001 SO PX",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 3
+  },
+  "4Gr@ins-Dy": {
+    "name": "4Gr@ins-Dy",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 4
+  },
+  "5th heroPX": {
+    "name": "5th heroPX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 5
+  },
+  "AerSyn   @": {
+    "name": "AerSyn   @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 6
+  },
+  "Aeternal @": {
+    "name": "Aeternal @",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 7
+  },
+  "Alloy   HS": {
+    "name": "Alloy   HS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 33,
+    "index": 8
+  },
+  "Ambiont PX": {
+    "name": "Ambiont PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 9
+  },
+  "AmrCnBe@uT": {
+    "name": "AmrCnBe@uT",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 33,
+    "index": 10
+  },
+  "AngelianPX": {
+    "name": "AngelianPX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 11
+  },
+  "Angels  SV": {
+    "name": "Angels  SV",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 12
+  },
+  "AprilPad@": {
+    "name": "AprilPad@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 13
+  },
+  "Aqua    PX": {
+    "name": "Aqua    PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 14
+  },
+  "Arigato PX": {
+    "name": "Arigato PX",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 33,
+    "index": 15
+  },
+  "Armus   SV": {
+    "name": "Armus   SV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 16
+  },
+  "Astr@": {
+    "name": "Astr@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 17
+  },
+  "BellsickPX": {
+    "name": "BellsickPX",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 33,
+    "index": 18
+  },
+  "Belly   PX": {
+    "name": "Belly   PX",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 33,
+    "index": 19
+  },
+  "Blongo  HS": {
+    "name": "Blongo  HS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 33,
+    "index": 20
+  },
+  "BluePl@ne2": {
+    "name": "BluePl@ne2",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 21
+  },
+  "Callist@": {
+    "name": "Callist@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 22
+  },
+  "CanHappen@": {
+    "name": "CanHappen@",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 33,
+    "index": 23
+  },
+  "CeuAzul PX": {
+    "name": "CeuAzul PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 24
+  },
+  "ChoBell jh": {
+    "name": "ChoBell jh",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 33,
+    "index": 25
+  },
+  "Clocks  PX": {
+    "name": "Clocks  PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 26
+  },
+  "CommonTon@": {
+    "name": "CommonTon@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 27
+  },
+  "CybrlifeSV": {
+    "name": "CybrlifeSV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 28
+  },
+  "DarkmoonSV": {
+    "name": "DarkmoonSV",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 29
+  },
+  "DayGool@s": {
+    "name": "DayGool@s",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 33,
+    "index": 30
+  },
+  "DelayLama@": {
+    "name": "DelayLama@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 31
+  },
+  "DigiBel2 @": {
+    "name": "DigiBel2 @",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 33,
+    "index": 32
+  },
+  "DigiBel3 @": {
+    "name": "DigiBel3 @",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 33,
+    "index": 33
+  },
+  "DigiBel4 @": {
+    "name": "DigiBel4 @",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 33,
+    "index": 34
+  },
+  "DigmahalPX": {
+    "name": "DigmahalPX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 35
+  },
+  "DlithiumHS": {
+    "name": "DlithiumHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 36
+  },
+  "Dragons  @": {
+    "name": "Dragons  @",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 33,
+    "index": 37
+  },
+  "Dreams  PX": {
+    "name": "Dreams  PX",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 33,
+    "index": 38
+  },
+  "DriftingPX": {
+    "name": "DriftingPX",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 39
+  },
+  "EeriebedSV": {
+    "name": "EeriebedSV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 40
+  },
+  "EPW@sh": {
+    "name": "EPW@sh",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 33,
+    "index": 41
+  },
+  "Feather PX": {
+    "name": "Feather PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 42
+  },
+  "FibogldePX": {
+    "name": "FibogldePX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 43
+  },
+  "Flangepad@": {
+    "name": "Flangepad@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 44
+  },
+  "Floater PX": {
+    "name": "Floater PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 45
+  },
+  "Foogpad2P@": {
+    "name": "Foogpad2P@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 46
+  },
+  "Gently 2 @": {
+    "name": "Gently 2 @",
+    "category": "Cat:14",
+    "category_id": 14,
+    "bank_id": 33,
+    "index": 47
+  },
+  "Glassy  PX": {
+    "name": "Glassy  PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 48
+  },
+  "GlstowerSV": {
+    "name": "GlstowerSV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 49
+  },
+  "Harpa   PX": {
+    "name": "Harpa   PX",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 33,
+    "index": 50
+  },
+  "Heroes   @": {
+    "name": "Heroes   @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 51
+  },
+  "Hi&Good PX": {
+    "name": "Hi&Good PX",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 52
+  },
+  "HiEther HS": {
+    "name": "HiEther HS",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 33,
+    "index": 53
+  },
+  "Horizon PX": {
+    "name": "Horizon PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 54
+  },
+  "Industron@": {
+    "name": "Industron@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 55
+  },
+  "Jovi@n": {
+    "name": "Jovi@n",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 56
+  },
+  "Junky@rd": {
+    "name": "Junky@rd",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 33,
+    "index": 57
+  },
+  "LayerHold@": {
+    "name": "LayerHold@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 58
+  },
+  "LFO2phs PX": {
+    "name": "LFO2phs PX",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 33,
+    "index": 59
+  },
+  "LikeSkin @": {
+    "name": "LikeSkin @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 60
+  },
+  "LiquiP@d": {
+    "name": "LiquiP@d",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 61
+  },
+  "LoEther HS": {
+    "name": "LoEther HS",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 33,
+    "index": 62
+  },
+  "Lun@rTide": {
+    "name": "Lun@rTide",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 63
+  },
+  "LunarArp @": {
+    "name": "LunarArp @",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 33,
+    "index": 64
+  },
+  "Luv (at)PX": {
+    "name": "Luv (at)PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 65
+  },
+  "M@ Olympus": {
+    "name": "M@ Olympus",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 66
+  },
+  "Mares   PX": {
+    "name": "Mares   PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 67
+  },
+  "Melted  PX": {
+    "name": "Melted  PX",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 68
+  },
+  "MingettiSV": {
+    "name": "MingettiSV",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 33,
+    "index": 69
+  },
+  "Minus80 PX": {
+    "name": "Minus80 PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 70
+  },
+  "Mr.Kite  @": {
+    "name": "Mr.Kite  @",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 33,
+    "index": 71
+  },
+  "MusicBoxPX": {
+    "name": "MusicBoxPX",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 72
+  },
+  "Mutagen@": {
+    "name": "Mutagen@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 73
+  },
+  "Neon    PX": {
+    "name": "Neon    PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 74
+  },
+  "NeoworldSV": {
+    "name": "NeoworldSV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 75
+  },
+  "Nerves   @": {
+    "name": "Nerves   @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 76
+  },
+  "Neutron@": {
+    "name": "Neutron@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 77
+  },
+  "NevrmindPX": {
+    "name": "NevrmindPX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 78
+  },
+  "Newb    PX": {
+    "name": "Newb    PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 79
+  },
+  "Noias   PX": {
+    "name": "Noias   PX",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 80
+  },
+  "Orion   PX": {
+    "name": "Orion   PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 81
+  },
+  "Ovatone HS": {
+    "name": "Ovatone HS",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 82
+  },
+  "PatiencPd@": {
+    "name": "PatiencPd@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 83
+  },
+  "Paz     PX": {
+    "name": "Paz     PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 84
+  },
+  "PearlpadSV": {
+    "name": "PearlpadSV",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 85
+  },
+  "Phage   HS": {
+    "name": "Phage   HS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 86
+  },
+  "Pl@net:1": {
+    "name": "Pl@net:1",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 87
+  },
+  "Pl@net:8": {
+    "name": "Pl@net:8",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 88
+  },
+  "Pod     PX": {
+    "name": "Pod     PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 89
+  },
+  "PoleNoise@": {
+    "name": "PoleNoise@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 90
+  },
+  "PsilobudPX": {
+    "name": "PsilobudPX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 91
+  },
+  "Psyght  PX": {
+    "name": "Psyght  PX",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 92
+  },
+  "QT-Soft RP": {
+    "name": "QT-Soft RP",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 93
+  },
+  "Quivery  @": {
+    "name": "Quivery  @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 94
+  },
+  "Reaktor PX": {
+    "name": "Reaktor PX",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 95
+  },
+  "reSINance@": {
+    "name": "reSINance@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 96
+  },
+  "Reson@tion": {
+    "name": "Reson@tion",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 33,
+    "index": 97
+  },
+  "Reternal@": {
+    "name": "Reternal@",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 98
+  },
+  "ReZombies@": {
+    "name": "ReZombies@",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 99
+  },
+  "Ride it PX": {
+    "name": "Ride it PX",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 33,
+    "index": 100
+  },
+  "S@nctuary": {
+    "name": "S@nctuary",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 33,
+    "index": 101
+  },
+  "Sadings RP": {
+    "name": "Sadings RP",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 33,
+    "index": 102
+  },
+  "Sci-Vi   @": {
+    "name": "Sci-Vi   @",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 103
+  },
+  "Shiny   SV": {
+    "name": "Shiny   SV",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 104
+  },
+  "SineLang @": {
+    "name": "SineLang @",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 33,
+    "index": 105
+  },
+  "Sinus9  XM": {
+    "name": "Sinus9  XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 106
+  },
+  "Softie  PX": {
+    "name": "Softie  PX",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 33,
+    "index": 107
+  },
+  "Sol@rize": {
+    "name": "Sol@rize",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 108
+  },
+  "Sono    PX": {
+    "name": "Sono    PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 109
+  },
+  "SpaceFX PX": {
+    "name": "SpaceFX PX",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 110
+  },
+  "SpaceOrkHS": {
+    "name": "SpaceOrkHS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 111
+  },
+  "Spiritu  @": {
+    "name": "Spiritu  @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 112
+  },
+  "Sun&TreePX": {
+    "name": "Sun&TreePX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 113
+  },
+  "SundromeHS": {
+    "name": "SundromeHS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 114
+  },
+  "SupershyPX": {
+    "name": "SupershyPX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 115
+  },
+  "Susto   PX": {
+    "name": "Susto   PX",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 116
+  },
+  "SweetO2  @": {
+    "name": "SweetO2  @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 117
+  },
+  "Syl@rsMind": {
+    "name": "Syl@rsMind",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 118
+  },
+  "Terraform@": {
+    "name": "Terraform@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 119
+  },
+  "TimefluxSV": {
+    "name": "TimefluxSV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 120
+  },
+  "TortrPadBC": {
+    "name": "TortrPadBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 33,
+    "index": 121
+  },
+  "TrippyPad@": {
+    "name": "TrippyPad@",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 122
+  },
+  "TStationPX": {
+    "name": "TStationPX",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 33,
+    "index": 123
+  },
+  "Up&Down PX": {
+    "name": "Up&Down PX",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 124
+  },
+  "Venusian @": {
+    "name": "Venusian @",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 125
+  },
+  "W@iverie": {
+    "name": "W@iverie",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 33,
+    "index": 126
+  },
+  "W@ve2.3": {
+    "name": "W@ve2.3",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 33,
+    "index": 127
+  }
+}

@@ -1,0 +1,898 @@
+{
+  "Taurus  JS": {
+    "name": "Taurus  JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 0
+  },
+  "OvertoneJS": {
+    "name": "OvertoneJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 1
+  },
+  "CalliopeJS": {
+    "name": "CalliopeJS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 2
+  },
+  "HarmonixJS": {
+    "name": "HarmonixJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 3
+  },
+  "Outland JS": {
+    "name": "Outland JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 4
+  },
+  "Animate JS": {
+    "name": "Animate JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 5
+  },
+  "Uprite  JS": {
+    "name": "Uprite  JS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 1,
+    "index": 6
+  },
+  "ConcreteJS": {
+    "name": "ConcreteJS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 7
+  },
+  "Bassic  JS": {
+    "name": "Bassic  JS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 1,
+    "index": 8
+  },
+  "7thHeavnJS": {
+    "name": "7thHeavnJS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 9
+  },
+  "Waver   JS": {
+    "name": "Waver   JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 10
+  },
+  "Carpets JS": {
+    "name": "Carpets JS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 11
+  },
+  "BasstardJS": {
+    "name": "BasstardJS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 12
+  },
+  "Raw     JS": {
+    "name": "Raw     JS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 13
+  },
+  "Soaring JS": {
+    "name": "Soaring JS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 14
+  },
+  "Opener  JS": {
+    "name": "Opener  JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 15
+  },
+  "Anima   JS": {
+    "name": "Anima   JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 16
+  },
+  "Cold SawJS": {
+    "name": "Cold SawJS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 17
+  },
+  "Bella   JS": {
+    "name": "Bella   JS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 18
+  },
+  "FM Bass JS": {
+    "name": "FM Bass JS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 1,
+    "index": 19
+  },
+  "Wailin  JS": {
+    "name": "Wailin  JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 20
+  },
+  "FX Drum JS": {
+    "name": "FX Drum JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 21
+  },
+  "Simply  JS": {
+    "name": "Simply  JS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 1,
+    "index": 22
+  },
+  "Nasty   JS": {
+    "name": "Nasty   JS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 23
+  },
+  "Impact  MS": {
+    "name": "Impact  MS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 24
+  },
+  "Moving  JS": {
+    "name": "Moving  JS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 1,
+    "index": 25
+  },
+  "Tubez   JS": {
+    "name": "Tubez   JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 26
+  },
+  "Whirly  JS": {
+    "name": "Whirly  JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 27
+  },
+  "ChainsawJS": {
+    "name": "ChainsawJS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 28
+  },
+  "Goa4 it JS": {
+    "name": "Goa4 it JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 29
+  },
+  "Random  JS": {
+    "name": "Random  JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 30
+  },
+  "Yucca   JS": {
+    "name": "Yucca   JS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 31
+  },
+  "JunoApg JS": {
+    "name": "JunoApg JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 32
+  },
+  "PolySin JS": {
+    "name": "PolySin JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 33
+  },
+  "SinderelJS": {
+    "name": "SinderelJS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 34
+  },
+  "MajorityJS": {
+    "name": "MajorityJS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 35
+  },
+  "WalkaArpJS": {
+    "name": "WalkaArpJS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 36
+  },
+  "Organic JS": {
+    "name": "Organic JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 37
+  },
+  "Rough   JS": {
+    "name": "Rough   JS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 38
+  },
+  "Ghost   JS": {
+    "name": "Ghost   JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 39
+  },
+  "Quarx   JS": {
+    "name": "Quarx   JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 40
+  },
+  "MonolithJS": {
+    "name": "MonolithJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 41
+  },
+  "Sim SalaJS": {
+    "name": "Sim SalaJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 42
+  },
+  "Soloist JS": {
+    "name": "Soloist JS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 43
+  },
+  "EnglArp JS": {
+    "name": "EnglArp JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 44
+  },
+  "X-Bellz JS": {
+    "name": "X-Bellz JS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 1,
+    "index": 45
+  },
+  "Soaker  JS": {
+    "name": "Soaker  JS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 46
+  },
+  "Haunted JS": {
+    "name": "Haunted JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 47
+  },
+  "NiceArp JS": {
+    "name": "NiceArp JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 48
+  },
+  "Alert   JS": {
+    "name": "Alert   JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 49
+  },
+  "Lead    JS": {
+    "name": "Lead    JS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 50
+  },
+  "Rhy-Arp JS": {
+    "name": "Rhy-Arp JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 51
+  },
+  "Vienna  JS": {
+    "name": "Vienna  JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 52
+  },
+  "Moon PadJS": {
+    "name": "Moon PadJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 53
+  },
+  "Start UpJS": {
+    "name": "Start UpJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 54
+  },
+  "Virus B JS": {
+    "name": "Virus B JS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 55
+  },
+  "InfectedJS": {
+    "name": "InfectedJS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 56
+  },
+  "Beatbox JS": {
+    "name": "Beatbox JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 57
+  },
+  "Mallet  JS": {
+    "name": "Mallet  JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 58
+  },
+  "BigSweepJS": {
+    "name": "BigSweepJS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 1,
+    "index": 59
+  },
+  "Voyager JS": {
+    "name": "Voyager JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 60
+  },
+  "Ghost 2 JS": {
+    "name": "Ghost 2 JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 61
+  },
+  "Fuzzbox JS": {
+    "name": "Fuzzbox JS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 62
+  },
+  "Induced JS": {
+    "name": "Induced JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 63
+  },
+  "Prodigy JS": {
+    "name": "Prodigy JS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 64
+  },
+  "Sweeper JS": {
+    "name": "Sweeper JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 65
+  },
+  "Donkey  JS": {
+    "name": "Donkey  JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 66
+  },
+  "FuzzBellJS": {
+    "name": "FuzzBellJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 67
+  },
+  "Laville JS": {
+    "name": "Laville JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 68
+  },
+  "BIG FLY JS": {
+    "name": "BIG FLY JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 69
+  },
+  "InfinityJS": {
+    "name": "InfinityJS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 70
+  },
+  "MorsSpc JS": {
+    "name": "MorsSpc JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 71
+  },
+  "Tubular JS": {
+    "name": "Tubular JS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 1,
+    "index": 72
+  },
+  "Bad S   JS": {
+    "name": "Bad S   JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 73
+  },
+  "Chant   JS": {
+    "name": "Chant   JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 74
+  },
+  "Puncher JS": {
+    "name": "Puncher JS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 1,
+    "index": 75
+  },
+  "BElla 2 JS": {
+    "name": "BElla 2 JS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 76
+  },
+  "BellaArpJS": {
+    "name": "BellaArpJS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 77
+  },
+  "FeedyPadJS": {
+    "name": "FeedyPadJS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 78
+  },
+  "Haunted JS_1": {
+    "name": "Haunted JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 79
+  },
+  "Wave-PadJS": {
+    "name": "Wave-PadJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 80
+  },
+  "ScanJob JS": {
+    "name": "ScanJob JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 81
+  },
+  "Dig Me  JS": {
+    "name": "Dig Me  JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 82
+  },
+  "No Age  JS": {
+    "name": "No Age  JS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 83
+  },
+  "SeqIt   JS": {
+    "name": "SeqIt   JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 84
+  },
+  "Dig ThisJS": {
+    "name": "Dig ThisJS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 85
+  },
+  "JaySync JS": {
+    "name": "JaySync JS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 86
+  },
+  "Deeper  JS": {
+    "name": "Deeper  JS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 87
+  },
+  "Piggy   JS": {
+    "name": "Piggy   JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 88
+  },
+  "Percold JS": {
+    "name": "Percold JS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 1,
+    "index": 89
+  },
+  "HackbartJS": {
+    "name": "HackbartJS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 90
+  },
+  "Hover   JS": {
+    "name": "Hover   JS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 91
+  },
+  "GinaPad JS": {
+    "name": "GinaPad JS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 92
+  },
+  "Bassta  JS": {
+    "name": "Bassta  JS",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 93
+  },
+  "SineBeezJS": {
+    "name": "SineBeezJS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 94
+  },
+  "OverloadJS": {
+    "name": "OverloadJS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 95
+  },
+  "ArtificlJS": {
+    "name": "ArtificlJS",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 96
+  },
+  "Justice JS": {
+    "name": "Justice JS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 1,
+    "index": 97
+  },
+  "EnoesqueJS": {
+    "name": "EnoesqueJS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 98
+  },
+  "For DeepJS": {
+    "name": "For DeepJS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 99
+  },
+  "Frozen  JS": {
+    "name": "Frozen  JS",
+    "category": "Perc",
+    "category_id": 11,
+    "bank_id": 1,
+    "index": 100
+  },
+  "Ah RESO JS": {
+    "name": "Ah RESO JS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 101
+  },
+  "KyotoLd JS": {
+    "name": "KyotoLd JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 102
+  },
+  "Walker  JS": {
+    "name": "Walker  JS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 103
+  },
+  "Tight   JS": {
+    "name": "Tight   JS",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 1,
+    "index": 104
+  },
+  "Odyssey JS": {
+    "name": "Odyssey JS",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 1,
+    "index": 105
+  },
+  "Hybrid  JS": {
+    "name": "Hybrid  JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 106
+  },
+  "Birdy   JS": {
+    "name": "Birdy   JS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 107
+  },
+  "Feng JuiJS": {
+    "name": "Feng JuiJS",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 108
+  },
+  "Anabo|icJS": {
+    "name": "Anabo|icJS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 109
+  },
+  "Glitch  OK": {
+    "name": "Glitch  OK",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 110
+  },
+  "Disco   OK": {
+    "name": "Disco   OK",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 111
+  },
+  "OldScol OK": {
+    "name": "OldScol OK",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 112
+  },
+  "WetFunk BC": {
+    "name": "WetFunk BC",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 113
+  },
+  "Soft3rdsBC": {
+    "name": "Soft3rdsBC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 1,
+    "index": 114
+  },
+  "Puls4thsBC": {
+    "name": "Puls4thsBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 115
+  },
+  "Choir 4 BC": {
+    "name": "Choir 4 BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 1,
+    "index": 116
+  },
+  "PluckMe BC": {
+    "name": "PluckMe BC",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 117
+  },
+  "BC VoV-3BC": {
+    "name": "BC VoV-3BC",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 118
+  },
+  "Dukbass+BC": {
+    "name": "Dukbass+BC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 1,
+    "index": 119
+  },
+  "SmoothBsBC": {
+    "name": "SmoothBsBC",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 1,
+    "index": 120
+  },
+  "Subaqua BC": {
+    "name": "Subaqua BC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 1,
+    "index": 121
+  },
+  "BC VoV-2BC": {
+    "name": "BC VoV-2BC",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 122
+  },
+  "Braxter JV": {
+    "name": "Braxter JV",
+    "category": "Seq",
+    "category_id": 6,
+    "bank_id": 1,
+    "index": 123
+  },
+  "Pulsic  JV": {
+    "name": "Pulsic  JV",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 1,
+    "index": 124
+  },
+  ">>INPUT<<": {
+    "name": ">>INPUT<<",
+    "category": "Organ",
+    "category_id": 12,
+    "bank_id": 1,
+    "index": 125
+  },
+  "- Init -": {
+    "name": "- Init -",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 1,
+    "index": 126
+  },
+  "- START -": {
+    "name": "- START -",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 1,
+    "index": 127
+  }
+}

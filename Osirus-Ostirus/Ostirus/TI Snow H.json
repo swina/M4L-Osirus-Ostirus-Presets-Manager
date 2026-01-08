@@ -1,0 +1,898 @@
+{
+  "AbstractRD": {
+    "name": "AbstractRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 0
+  },
+  "AerialPdRD": {
+    "name": "AerialPdRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 1
+  },
+  "AlienChtRD": {
+    "name": "AlienChtRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 2
+  },
+  "Aliens  MH": {
+    "name": "Aliens  MH",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 3
+  },
+  "Bangesh RD": {
+    "name": "Bangesh RD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 4
+  },
+  "BarbieriMH": {
+    "name": "BarbieriMH",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 5
+  },
+  "Bedlam  BC": {
+    "name": "Bedlam  BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 6
+  },
+  "BelisimoBC": {
+    "name": "BelisimoBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 7
+  },
+  "BellTineRD": {
+    "name": "BellTineRD",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 54,
+    "index": 8
+  },
+  "Bl@kCopter": {
+    "name": "Bl@kCopter",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 9
+  },
+  "BlinkLEDRD": {
+    "name": "BlinkLEDRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 10
+  },
+  "BlueSporRD": {
+    "name": "BlueSporRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 11
+  },
+  "Bore@lis": {
+    "name": "Bore@lis",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 12
+  },
+  "Bubble pix": {
+    "name": "Bubble pix",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 13
+  },
+  "Bubbles RD": {
+    "name": "Bubbles RD",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 54,
+    "index": 14
+  },
+  "BurkSyn RD": {
+    "name": "BurkSyn RD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 15
+  },
+  "CalmNiteRD": {
+    "name": "CalmNiteRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 16
+  },
+  "Chimera RD": {
+    "name": "Chimera RD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 17
+  },
+  "ChoirBelBC": {
+    "name": "ChoirBelBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 18
+  },
+  "Cicadia BC": {
+    "name": "Cicadia BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 19
+  },
+  "CloudPadRD": {
+    "name": "CloudPadRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 20
+  },
+  "CrystlFXRD": {
+    "name": "CrystlFXRD",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 54,
+    "index": 21
+  },
+  "CyborgFXRD": {
+    "name": "CyborgFXRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 22
+  },
+  "D=CM+1  HS": {
+    "name": "D=CM+1  HS",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 23
+  },
+  "DeepBlueBC": {
+    "name": "DeepBlueBC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 24
+  },
+  "DeepColvRD": {
+    "name": "DeepColvRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 25
+  },
+  "Dehjex  MH": {
+    "name": "Dehjex  MH",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 26
+  },
+  "Deinos @": {
+    "name": "Deinos @",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 27
+  },
+  "DnThePanBC": {
+    "name": "DnThePanBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 28
+  },
+  "Dreams  MH": {
+    "name": "Dreams  MH",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 29
+  },
+  "DropletsRD": {
+    "name": "DropletsRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 30
+  },
+  "DualiTI BC": {
+    "name": "DualiTI BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 31
+  },
+  "DustFld RD": {
+    "name": "DustFld RD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 32
+  },
+  "E-tron  RD": {
+    "name": "E-tron  RD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 33
+  },
+  "EmpericlRD": {
+    "name": "EmpericlRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 34
+  },
+  "Euqria  BC": {
+    "name": "Euqria  BC",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 35
+  },
+  "EXLightsRD": {
+    "name": "EXLightsRD",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 54,
+    "index": 36
+  },
+  "Expanse BC": {
+    "name": "Expanse BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 37
+  },
+  "F-Motor RD": {
+    "name": "F-Motor RD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 38
+  },
+  "FallAprtRD": {
+    "name": "FallAprtRD",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 54,
+    "index": 39
+  },
+  "FiboPad BC": {
+    "name": "FiboPad BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 40
+  },
+  "Flutter RD": {
+    "name": "Flutter RD",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 54,
+    "index": 41
+  },
+  "FMMadnesRD": {
+    "name": "FMMadnesRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 42
+  },
+  "FMOptersRD": {
+    "name": "FMOptersRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 43
+  },
+  "FMScape RD": {
+    "name": "FMScape RD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 44
+  },
+  "Freno   BC": {
+    "name": "Freno   BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 45
+  },
+  "FrmntPadRD": {
+    "name": "FrmntPadRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 46
+  },
+  "G Sines BC": {
+    "name": "G Sines BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 47
+  },
+  "GamelandRD": {
+    "name": "GamelandRD",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 54,
+    "index": 48
+  },
+  "GeoSpherBC": {
+    "name": "GeoSpherBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 49
+  },
+  "Gissy   RD": {
+    "name": "Gissy   RD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 50
+  },
+  "Glacier BC": {
+    "name": "Glacier BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 51
+  },
+  "GlitchFXRD": {
+    "name": "GlitchFXRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 52
+  },
+  "GloWormsBC": {
+    "name": "GloWormsBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 53
+  },
+  "GlsBelPdBC": {
+    "name": "GlsBelPdBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 54
+  },
+  "GlsTinesRD": {
+    "name": "GlsTinesRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 55
+  },
+  "Gorogro NM": {
+    "name": "Gorogro NM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 56
+  },
+  "GranBelsBC": {
+    "name": "GranBelsBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 57
+  },
+  "GrnVoco BC": {
+    "name": "GrnVoco BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 58
+  },
+  "HalfliteBC": {
+    "name": "HalfliteBC",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 54,
+    "index": 59
+  },
+  "HansStr RD": {
+    "name": "HansStr RD",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 54,
+    "index": 60
+  },
+  "Heaven  JL": {
+    "name": "Heaven  JL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 61
+  },
+  "HrorSineRD": {
+    "name": "HrorSineRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 62
+  },
+  "HypnechoBC": {
+    "name": "HypnechoBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 63
+  },
+  "IcefieldMH": {
+    "name": "IcefieldMH",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 64
+  },
+  "Insects RD": {
+    "name": "Insects RD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 65
+  },
+  "Interia RD": {
+    "name": "Interia RD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 66
+  },
+  "IntoTheVRD": {
+    "name": "IntoTheVRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 67
+  },
+  "InvisiPdBC": {
+    "name": "InvisiPdBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 68
+  },
+  "Ioead   BC": {
+    "name": "Ioead   BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 69
+  },
+  "Kascade RD": {
+    "name": "Kascade RD",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 70
+  },
+  "Korgi   BC": {
+    "name": "Korgi   BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 71
+  },
+  "Majiko  BC": {
+    "name": "Majiko  BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 72
+  },
+  "Melene  BC": {
+    "name": "Melene  BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 73
+  },
+  "MetaLab RD": {
+    "name": "MetaLab RD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 74
+  },
+  "Misty   BC": {
+    "name": "Misty   BC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 75
+  },
+  "ModifierMH": {
+    "name": "ModifierMH",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 76
+  },
+  "ModulaFXRD": {
+    "name": "ModulaFXRD",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 54,
+    "index": 77
+  },
+  "Mongoro NM": {
+    "name": "Mongoro NM",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 54,
+    "index": 78
+  },
+  "MoonbugsBC": {
+    "name": "MoonbugsBC",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 54,
+    "index": 79
+  },
+  "Nanules BC": {
+    "name": "Nanules BC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 80
+  },
+  "Nenoa   BC": {
+    "name": "Nenoa   BC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 81
+  },
+  "NeoSphr2BC": {
+    "name": "NeoSphr2BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 82
+  },
+  "NextOrbit@": {
+    "name": "NextOrbit@",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 83
+  },
+  "Nu Vue pix": {
+    "name": "Nu Vue pix",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 54,
+    "index": 84
+  },
+  "OceanPadRD": {
+    "name": "OceanPadRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 85
+  },
+  "OldTimesRD": {
+    "name": "OldTimesRD",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 54,
+    "index": 86
+  },
+  "Peace   BC": {
+    "name": "Peace   BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 87
+  },
+  "Phobic  MH": {
+    "name": "Phobic  MH",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 88
+  },
+  "Plasma  RD": {
+    "name": "Plasma  RD",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 54,
+    "index": 89
+  },
+  "PointCldRD": {
+    "name": "PointCldRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 90
+  },
+  "PulsFadeBC": {
+    "name": "PulsFadeBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 91
+  },
+  "ReflxshnBC": {
+    "name": "ReflxshnBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 92
+  },
+  "RezbiantBC": {
+    "name": "RezbiantBC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 93
+  },
+  "RingBlotRD": {
+    "name": "RingBlotRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 94
+  },
+  "RndmMessRD": {
+    "name": "RndmMessRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 95
+  },
+  "RubberFXRD": {
+    "name": "RubberFXRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 96
+  },
+  "SCIspensBC": {
+    "name": "SCIspensBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 97
+  },
+  "Secret  AV": {
+    "name": "Secret  AV",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 98
+  },
+  "Sekur   BC": {
+    "name": "Sekur   BC",
+    "category": "Cat:21",
+    "category_id": 21,
+    "bank_id": 54,
+    "index": 99
+  },
+  "SensePadRD": {
+    "name": "SensePadRD",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 54,
+    "index": 100
+  },
+  "SeqSweepBC": {
+    "name": "SeqSweepBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 101
+  },
+  "SevnthWvBC": {
+    "name": "SevnthWvBC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 102
+  },
+  "Shifted BC": {
+    "name": "Shifted BC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 103
+  },
+  "Sighing BC": {
+    "name": "Sighing BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 104
+  },
+  "Simsuki BC": {
+    "name": "Simsuki BC",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 105
+  },
+  "Soft   pix": {
+    "name": "Soft   pix",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 54,
+    "index": 106
+  },
+  "SoftTch RD": {
+    "name": "SoftTch RD",
+    "category": "Cat:18",
+    "category_id": 18,
+    "bank_id": 54,
+    "index": 107
+  },
+  "SpAcEvOx @": {
+    "name": "SpAcEvOx @",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 54,
+    "index": 108
+  },
+  "SpceRdioRD": {
+    "name": "SpceRdioRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 109
+  },
+  "Spooked BC": {
+    "name": "Spooked BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 110
+  },
+  "StarLiteRD": {
+    "name": "StarLiteRD",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 54,
+    "index": 111
+  },
+  "SummerPdRD": {
+    "name": "SummerPdRD",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 112
+  },
+  "SunDial RD": {
+    "name": "SunDial RD",
+    "category": "Cat:19",
+    "category_id": 19,
+    "bank_id": 54,
+    "index": 113
+  },
+  "SwampFX RD": {
+    "name": "SwampFX RD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 114
+  },
+  "ThebuTI BC": {
+    "name": "ThebuTI BC",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 54,
+    "index": 115
+  },
+  "TransmitRD": {
+    "name": "TransmitRD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 116
+  },
+  "TwilightRD": {
+    "name": "TwilightRD",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 54,
+    "index": 117
+  },
+  "Twisted RD": {
+    "name": "Twisted RD",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 54,
+    "index": 118
+  },
+  "PWM Pad BC": {
+    "name": "PWM Pad BC",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 119
+  },
+  "Tutorial 1": {
+    "name": "Tutorial 1",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 120
+  },
+  "Tutorial 2": {
+    "name": "Tutorial 2",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 121
+  },
+  "Tutorial 3": {
+    "name": "Tutorial 3",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 122
+  },
+  "Tutorial 4": {
+    "name": "Tutorial 4",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 123
+  },
+  "Tutorial 5": {
+    "name": "Tutorial 5",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 124
+  },
+  "Tutorial 6": {
+    "name": "Tutorial 6",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 125
+  },
+  "Tutorial 7": {
+    "name": "Tutorial 7",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 126
+  },
+  "Tutorial 8": {
+    "name": "Tutorial 8",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 54,
+    "index": 127
+  }
+}

@@ -1,0 +1,898 @@
+{
+  "AccMW   JL": {
+    "name": "AccMW   JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 0
+  },
+  "AgressivJL": {
+    "name": "AgressivJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 1
+  },
+  "AhaaDistJL": {
+    "name": "AhaaDistJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 2
+  },
+  "Amadeus PS": {
+    "name": "Amadeus PS",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 3
+  },
+  "Anthem  PS": {
+    "name": "Anthem  PS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 19,
+    "index": 4
+  },
+  "ArpBass JL": {
+    "name": "ArpBass JL",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 19,
+    "index": 5
+  },
+  "ArpBass2JL": {
+    "name": "ArpBass2JL",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 19,
+    "index": 6
+  },
+  "ArpSwingPS": {
+    "name": "ArpSwingPS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 19,
+    "index": 7
+  },
+  "ArtifactJL": {
+    "name": "ArtifactJL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 8
+  },
+  "AstralPdJL": {
+    "name": "AstralPdJL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 9
+  },
+  "BeautiflJL": {
+    "name": "BeautiflJL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 10
+  },
+  "Benny B JL": {
+    "name": "Benny B JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 11
+  },
+  "BigBoy  JL": {
+    "name": "BigBoy  JL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 12
+  },
+  "Birds   JL": {
+    "name": "Birds   JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 13
+  },
+  "Block   JL": {
+    "name": "Block   JL",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 19,
+    "index": 14
+  },
+  "Bone    JL": {
+    "name": "Bone    JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 15
+  },
+  "Boring  JL": {
+    "name": "Boring  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 16
+  },
+  "Bulk    JL": {
+    "name": "Bulk    JL",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 19,
+    "index": 17
+  },
+  "Century PS": {
+    "name": "Century PS",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 18
+  },
+  "Chant   JL": {
+    "name": "Chant   JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 19
+  },
+  "Chord ! PS": {
+    "name": "Chord ! PS",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 19,
+    "index": 20
+  },
+  "Chunky  JL": {
+    "name": "Chunky  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 21
+  },
+  "ColdStelJL": {
+    "name": "ColdStelJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 22
+  },
+  "ComMan  JL": {
+    "name": "ComMan  JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 23
+  },
+  "CupDrum JL": {
+    "name": "CupDrum JL",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 19,
+    "index": 24
+  },
+  "DeepSwllJL": {
+    "name": "DeepSwllJL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 25
+  },
+  "DefectedJL": {
+    "name": "DefectedJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 26
+  },
+  "Dirty L jh": {
+    "name": "Dirty L jh",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 27
+  },
+  "Dizzy   JL": {
+    "name": "Dizzy   JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 28
+  },
+  "DoomBellJL": {
+    "name": "DoomBellJL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 29
+  },
+  "DubBass jh": {
+    "name": "DubBass jh",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 30
+  },
+  "Elastic JL": {
+    "name": "Elastic JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 31
+  },
+  "ElecBas JL": {
+    "name": "ElecBas JL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 32
+  },
+  "FakeGtr JL": {
+    "name": "FakeGtr JL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 33
+  },
+  "FakeSax JL": {
+    "name": "FakeSax JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 34
+  },
+  "Feeder  JL": {
+    "name": "Feeder  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 35
+  },
+  "FelxDmstJL": {
+    "name": "FelxDmstJL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 36
+  },
+  "FftyFftyJL": {
+    "name": "FftyFftyJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 37
+  },
+  "Fretles JL": {
+    "name": "Fretles JL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 38
+  },
+  "FromBgn JL": {
+    "name": "FromBgn JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 39
+  },
+  "Fusion  JL": {
+    "name": "Fusion  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 40
+  },
+  "Gimme5  JL": {
+    "name": "Gimme5  JL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 41
+  },
+  "GrittyB JL": {
+    "name": "GrittyB JL",
+    "category": "Cat:17",
+    "category_id": 17,
+    "bank_id": 19,
+    "index": 42
+  },
+  "Grose   JL": {
+    "name": "Grose   JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 43
+  },
+  "Guitar  JL": {
+    "name": "Guitar  JL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 44
+  },
+  "Heaven  JL": {
+    "name": "Heaven  JL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 45
+  },
+  "Hoedown JL": {
+    "name": "Hoedown JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 46
+  },
+  "Hoho.   JL": {
+    "name": "Hoho.   JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 47
+  },
+  "Hollow  JL": {
+    "name": "Hollow  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 48
+  },
+  "HolyVrs JL": {
+    "name": "HolyVrs JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 49
+  },
+  "HonkHonkJL": {
+    "name": "HonkHonkJL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 50
+  },
+  "Horny   JL": {
+    "name": "Horny   JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 51
+  },
+  "Horror  JL": {
+    "name": "Horror  JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 52
+  },
+  "HP SauceJL": {
+    "name": "HP SauceJL",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 19,
+    "index": 53
+  },
+  "ImFrenchJL": {
+    "name": "ImFrenchJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 54
+  },
+  "Jeruslm JL": {
+    "name": "Jeruslm JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 55
+  },
+  "Juho L'sJL": {
+    "name": "Juho L'sJL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 56
+  },
+  "KarnEvl JL": {
+    "name": "KarnEvl JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 57
+  },
+  "KE9Lead JL": {
+    "name": "KE9Lead JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 58
+  },
+  "KickO'  JL": {
+    "name": "KickO'  JL",
+    "category": "Drums",
+    "category_id": 10,
+    "bank_id": 19,
+    "index": 59
+  },
+  "KnockersJL": {
+    "name": "KnockersJL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 60
+  },
+  "Matter  JL": {
+    "name": "Matter  JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 61
+  },
+  "MntnFlutJL": {
+    "name": "MntnFlutJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 62
+  },
+  "Monsta  jh": {
+    "name": "Monsta  jh",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 63
+  },
+  "Moogish JL": {
+    "name": "Moogish JL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 64
+  },
+  "MorpheusJL": {
+    "name": "MorpheusJL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 65
+  },
+  "MrKitinaJL": {
+    "name": "MrKitinaJL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 66
+  },
+  "Mystic  JL": {
+    "name": "Mystic  JL",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 19,
+    "index": 67
+  },
+  "NaukuMstJL": {
+    "name": "NaukuMstJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 68
+  },
+  "NghtTme JL": {
+    "name": "NghtTme JL",
+    "category": "Keys",
+    "category_id": 5,
+    "bank_id": 19,
+    "index": 69
+  },
+  "NiceBassJL": {
+    "name": "NiceBassJL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 70
+  },
+  "NintendoJL": {
+    "name": "NintendoJL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 71
+  },
+  "Nokia   JL": {
+    "name": "Nokia   JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 72
+  },
+  "NotNice jh": {
+    "name": "NotNice jh",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 73
+  },
+  "NotPad  JL": {
+    "name": "NotPad  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 74
+  },
+  "NotPad2 JL": {
+    "name": "NotPad2 JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 75
+  },
+  "OfcHell JL": {
+    "name": "OfcHell JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 76
+  },
+  "Pad 4AD XM": {
+    "name": "Pad 4AD XM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 77
+  },
+  "Padman  JL": {
+    "name": "Padman  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 78
+  },
+  "PawnBassJL": {
+    "name": "PawnBassJL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 79
+  },
+  "Positiv JL": {
+    "name": "Positiv JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 80
+  },
+  "PythagorJL": {
+    "name": "PythagorJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 81
+  },
+  "Quantum JL": {
+    "name": "Quantum JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 82
+  },
+  "RndAgresJL": {
+    "name": "RndAgresJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 83
+  },
+  "Rotary  JL": {
+    "name": "Rotary  JL",
+    "category": "Cat:17",
+    "category_id": 17,
+    "bank_id": 19,
+    "index": 84
+  },
+  "Satt 2! jh": {
+    "name": "Satt 2! jh",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 85
+  },
+  "Sheva   JL": {
+    "name": "Sheva   JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 86
+  },
+  "Shivers JL": {
+    "name": "Shivers JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 87
+  },
+  "Sick    JL": {
+    "name": "Sick    JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 88
+  },
+  "Singing JL": {
+    "name": "Singing JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 89
+  },
+  "SinisterJL": {
+    "name": "SinisterJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 90
+  },
+  "Sitar   JL": {
+    "name": "Sitar   JL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 91
+  },
+  "Slicey  JL": {
+    "name": "Slicey  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 92
+  },
+  "SlicyBasJL": {
+    "name": "SlicyBasJL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 93
+  },
+  "SoulEatrJL": {
+    "name": "SoulEatrJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 94
+  },
+  "SpcMonkyJL": {
+    "name": "SpcMonkyJL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 95
+  },
+  "Spirits JL": {
+    "name": "Spirits JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 96
+  },
+  "SplddVOCJL": {
+    "name": "SplddVOCJL",
+    "category": "Off",
+    "category_id": 0,
+    "bank_id": 19,
+    "index": 97
+  },
+  "SplitPhtJL": {
+    "name": "SplitPhtJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 98
+  },
+  "SqrMdns JL": {
+    "name": "SqrMdns JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 99
+  },
+  "SqrSwlw JL": {
+    "name": "SqrSwlw JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 100
+  },
+  "Squba   JL": {
+    "name": "Squba   JL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 101
+  },
+  "Sub     JL": {
+    "name": "Sub     JL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 102
+  },
+  "Super   JL": {
+    "name": "Super   JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 103
+  },
+  "SurfMstrJL": {
+    "name": "SurfMstrJL",
+    "category": "Cat:17",
+    "category_id": 17,
+    "bank_id": 19,
+    "index": 104
+  },
+  "SwirlPadJL": {
+    "name": "SwirlPadJL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 105
+  },
+  "SyncSyncJL": {
+    "name": "SyncSyncJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 106
+  },
+  "SynthPnoJL": {
+    "name": "SynthPnoJL",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 19,
+    "index": 107
+  },
+  "Tarkus  JL": {
+    "name": "Tarkus  JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 108
+  },
+  "Tarkus2 JL": {
+    "name": "Tarkus2 JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 109
+  },
+  "Tch&Go  JL": {
+    "name": "Tch&Go  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 110
+  },
+  "The Val.jh": {
+    "name": "The Val.jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 111
+  },
+  "TheDawn JL": {
+    "name": "TheDawn JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 112
+  },
+  "TheWell JL": {
+    "name": "TheWell JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 113
+  },
+  "ThickSawJL": {
+    "name": "ThickSawJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 114
+  },
+  "Trilogy JL": {
+    "name": "Trilogy JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 115
+  },
+  "TrilStr JL": {
+    "name": "TrilStr JL",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 19,
+    "index": 116
+  },
+  "Vacuum  JL": {
+    "name": "Vacuum  JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 117
+  },
+  "VilePad JL": {
+    "name": "VilePad JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 118
+  },
+  "Voyager JL": {
+    "name": "Voyager JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 119
+  },
+  "Vry'eavyJL": {
+    "name": "Vry'eavyJL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 120
+  },
+  "Warble  JL": {
+    "name": "Warble  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 121
+  },
+  "WarmPad JL": {
+    "name": "WarmPad JL",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 19,
+    "index": 122
+  },
+  "Warped  JL": {
+    "name": "Warped  JL",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 19,
+    "index": 123
+  },
+  "WarpHov JL": {
+    "name": "WarpHov JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 124
+  },
+  "WideBassJL": {
+    "name": "WideBassJL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 125
+  },
+  "WoodenMnJL": {
+    "name": "WoodenMnJL",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 19,
+    "index": 126
+  },
+  "Zaphod  JL": {
+    "name": "Zaphod  JL",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 19,
+    "index": 127
+  }
+}

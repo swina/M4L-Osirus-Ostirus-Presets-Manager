@@ -1,0 +1,898 @@
+{
+  "AcidArp  M": {
+    "name": "AcidArp  M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 0
+  },
+  "AcidRain M": {
+    "name": "AcidRain M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 1
+  },
+  "Anemone  M": {
+    "name": "Anemone  M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 2
+  },
+  "ArdeKey  M": {
+    "name": "ArdeKey  M",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 7,
+    "index": 3
+  },
+  "Atlantis M": {
+    "name": "Atlantis M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 4
+  },
+  "BadBrain M": {
+    "name": "BadBrain M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 5
+  },
+  "Beaker   M": {
+    "name": "Beaker   M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 6
+  },
+  "Beano    M": {
+    "name": "Beano    M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 7
+  },
+  "Bhurly   M": {
+    "name": "Bhurly   M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 8
+  },
+  "CashCrop M": {
+    "name": "CashCrop M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 9
+  },
+  "Chimp    M": {
+    "name": "Chimp    M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 10
+  },
+  "Clockers M": {
+    "name": "Clockers M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 11
+  },
+  "ComeDown M": {
+    "name": "ComeDown M",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 7,
+    "index": 12
+  },
+  "Cunted   M": {
+    "name": "Cunted   M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 13
+  },
+  "Dayz     M": {
+    "name": "Dayz     M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 14
+  },
+  "Diana    M": {
+    "name": "Diana    M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 15
+  },
+  "DieSoon  M": {
+    "name": "DieSoon  M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 16
+  },
+  "DigDoug  M": {
+    "name": "DigDoug  M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 17
+  },
+  "DoubleD  M": {
+    "name": "DoubleD  M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 18
+  },
+  "DubTest  M": {
+    "name": "DubTest  M",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 7,
+    "index": 19
+  },
+  "DuckFeet M": {
+    "name": "DuckFeet M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 20
+  },
+  "Dumbo    M": {
+    "name": "Dumbo    M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 21
+  },
+  "Eastside M": {
+    "name": "Eastside M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 22
+  },
+  "Elevator M": {
+    "name": "Elevator M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 23
+  },
+  "Explora  M": {
+    "name": "Explora  M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 24
+  },
+  "FarOut   M": {
+    "name": "FarOut   M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 25
+  },
+  "Fatass!  M": {
+    "name": "Fatass!  M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 26
+  },
+  "Felcher  M": {
+    "name": "Felcher  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 27
+  },
+  "FogHat   M": {
+    "name": "FogHat   M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 28
+  },
+  "Fonkah   M": {
+    "name": "Fonkah   M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 29
+  },
+  "Forever  M": {
+    "name": "Forever  M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 30
+  },
+  "Furley   M": {
+    "name": "Furley   M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 31
+  },
+  "Gachet   M": {
+    "name": "Gachet   M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 32
+  },
+  "Gamera   M": {
+    "name": "Gamera   M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 33
+  },
+  "Ganja    M": {
+    "name": "Ganja    M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 34
+  },
+  "GasHuffa M": {
+    "name": "GasHuffa M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 35
+  },
+  "Gateman  M": {
+    "name": "Gateman  M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 36
+  },
+  "Ghoulie  M": {
+    "name": "Ghoulie  M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 37
+  },
+  "GoFigure M": {
+    "name": "GoFigure M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 38
+  },
+  "GrapeApe M": {
+    "name": "GrapeApe M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 39
+  },
+  "Hesher   M": {
+    "name": "Hesher   M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 40
+  },
+  "Hideout  M": {
+    "name": "Hideout  M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 41
+  },
+  "Horror2 jh": {
+    "name": "Horror2 jh",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 42
+  },
+  "Hoth     M": {
+    "name": "Hoth     M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 43
+  },
+  "HotKarl  M": {
+    "name": "HotKarl  M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 44
+  },
+  "Hydra    M": {
+    "name": "Hydra    M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 45
+  },
+  "Icarus   M": {
+    "name": "Icarus   M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 46
+  },
+  "Industry M": {
+    "name": "Industry M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 47
+  },
+  "Iodine   M": {
+    "name": "Iodine   M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 48
+  },
+  "Jaco     M": {
+    "name": "Jaco     M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 49
+  },
+  "Jahmekya M": {
+    "name": "Jahmekya M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 50
+  },
+  "JizzMop  M": {
+    "name": "JizzMop  M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 51
+  },
+  "Junkie   M": {
+    "name": "Junkie   M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 52
+  },
+  "KoolFM   M": {
+    "name": "KoolFM   M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 53
+  },
+  "Kuster   M": {
+    "name": "Kuster   M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 54
+  },
+  "Lando    M": {
+    "name": "Lando    M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 55
+  },
+  "LastFix  M": {
+    "name": "LastFix  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 56
+  },
+  "Lezzie   M": {
+    "name": "Lezzie   M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 57
+  },
+  "LiquidSkyM": {
+    "name": "LiquidSkyM",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 58
+  },
+  "Lisbon   M": {
+    "name": "Lisbon   M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 59
+  },
+  "Loner    M": {
+    "name": "Loner    M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 60
+  },
+  "Lycra    M": {
+    "name": "Lycra    M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 61
+  },
+  "Majesty  M": {
+    "name": "Majesty  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 62
+  },
+  "Malfunk  M": {
+    "name": "Malfunk  M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 63
+  },
+  "Manga    M": {
+    "name": "Manga    M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 64
+  },
+  "Mentor   M": {
+    "name": "Mentor   M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 65
+  },
+  "Mercury  M": {
+    "name": "Mercury  M",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 7,
+    "index": 66
+  },
+  "MethLab  M": {
+    "name": "MethLab  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 67
+  },
+  "Midnite  M": {
+    "name": "Midnite  M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 68
+  },
+  "Monkfish M": {
+    "name": "Monkfish M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 69
+  },
+  "Monument M": {
+    "name": "Monument M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 70
+  },
+  "Moonie   M": {
+    "name": "Moonie   M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 71
+  },
+  "Mosquito M": {
+    "name": "Mosquito M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 72
+  },
+  "Mothra   M": {
+    "name": "Mothra   M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 73
+  },
+  "Move     M": {
+    "name": "Move     M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 74
+  },
+  "Napalm   M": {
+    "name": "Napalm   M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 75
+  },
+  "Nebula   M": {
+    "name": "Nebula   M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 76
+  },
+  "NewYork  M": {
+    "name": "NewYork  M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 77
+  },
+  "NextKin  M": {
+    "name": "NextKin  M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 78
+  },
+  "NO2Head  M": {
+    "name": "NO2Head  M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 79
+  },
+  "PadThai  M": {
+    "name": "PadThai  M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 80
+  },
+  "Payback  M": {
+    "name": "Payback  M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 81
+  },
+  "Petrol   M": {
+    "name": "Petrol   M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 82
+  },
+  "Phantom  M": {
+    "name": "Phantom  M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 83
+  },
+  "PopTart  M": {
+    "name": "PopTart  M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 84
+  },
+  "PorkPie  M": {
+    "name": "PorkPie  M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 85
+  },
+  "Pulsine  M": {
+    "name": "Pulsine  M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 86
+  },
+  "Python   M": {
+    "name": "Python   M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 87
+  },
+  "Quazar   M": {
+    "name": "Quazar   M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 88
+  },
+  "Rasberry M": {
+    "name": "Rasberry M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 89
+  },
+  "RatSync  M": {
+    "name": "RatSync  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 90
+  },
+  "RedAlert M": {
+    "name": "RedAlert M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 91
+  },
+  "Reminise M": {
+    "name": "Reminise M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 92
+  },
+  "Resin    M": {
+    "name": "Resin    M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 93
+  },
+  "Rezonard M": {
+    "name": "Rezonard M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 94
+  },
+  "Roaches  M": {
+    "name": "Roaches  M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 95
+  },
+  "Rodan    M": {
+    "name": "Rodan    M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 96
+  },
+  "Sandman  M": {
+    "name": "Sandman  M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 97
+  },
+  "Seagull  M": {
+    "name": "Seagull  M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 98
+  },
+  "SheMale  M": {
+    "name": "SheMale  M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 99
+  },
+  "Simplex  M": {
+    "name": "Simplex  M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 100
+  },
+  "SkiMask  M": {
+    "name": "SkiMask  M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 101
+  },
+  "Skylab   M": {
+    "name": "Skylab   M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 102
+  },
+  "Slayer   M": {
+    "name": "Slayer   M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 103
+  },
+  "Socrates M": {
+    "name": "Socrates M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 104
+  },
+  "SpaceVan M": {
+    "name": "SpaceVan M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 105
+  },
+  "Sparta   M": {
+    "name": "Sparta   M",
+    "category": "Bass",
+    "category_id": 2,
+    "bank_id": 7,
+    "index": 106
+  },
+  "Spaz     M": {
+    "name": "Spaz     M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 107
+  },
+  "Sqash    M": {
+    "name": "Sqash    M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 108
+  },
+  "StarDust M": {
+    "name": "StarDust M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 109
+  },
+  "Tasm1    M": {
+    "name": "Tasm1    M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 110
+  },
+  "Tasm2    M": {
+    "name": "Tasm2    M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 111
+  },
+  "Tasm3    M": {
+    "name": "Tasm3    M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 112
+  },
+  "TechKey1 M": {
+    "name": "TechKey1 M",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 7,
+    "index": 113
+  },
+  "TechKey2 M": {
+    "name": "TechKey2 M",
+    "category": "Brass",
+    "category_id": 7,
+    "bank_id": 7,
+    "index": 114
+  },
+  "Traffic  M": {
+    "name": "Traffic  M",
+    "category": "Cat:20",
+    "category_id": 20,
+    "bank_id": 7,
+    "index": 115
+  },
+  "TwinPeaksM": {
+    "name": "TwinPeaksM",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 116
+  },
+  "Undertoe M": {
+    "name": "Undertoe M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 117
+  },
+  "Uranium  M": {
+    "name": "Uranium  M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 118
+  },
+  "Ursula   M": {
+    "name": "Ursula   M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 119
+  },
+  "Valium   M": {
+    "name": "Valium   M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 120
+  },
+  "Vindaloo M": {
+    "name": "Vindaloo M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 121
+  },
+  "Visitor  M": {
+    "name": "Visitor  M",
+    "category": "FX",
+    "category_id": 9,
+    "bank_id": 7,
+    "index": 122
+  },
+  "Westwego M": {
+    "name": "Westwego M",
+    "category": "Pad",
+    "category_id": 3,
+    "bank_id": 7,
+    "index": 123
+  },
+  "Wombat   M": {
+    "name": "Wombat   M",
+    "category": "Arp",
+    "category_id": 8,
+    "bank_id": 7,
+    "index": 124
+  },
+  "Wormzer  M": {
+    "name": "Wormzer  M",
+    "category": "Lead",
+    "category_id": 1,
+    "bank_id": 7,
+    "index": 125
+  },
+  "Xanax    M": {
+    "name": "Xanax    M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 126
+  },
+  "Zest     M": {
+    "name": "Zest     M",
+    "category": "Pluck",
+    "category_id": 4,
+    "bank_id": 7,
+    "index": 127
+  }
+}
