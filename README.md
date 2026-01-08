@@ -1,5 +1,9 @@
 # M4L Presets Manager for Osirus 2 / Ostirus Emulators
 
+> [!NOTE]
+> **Status: Alpha Version**
+> This device is currently in development (Alpha stage). Feedback from testers is greatly appreciated to help identify bugs and improve functionality. Please feel free to reach out with your findings!
+
 ## Description
 
 This Max for Live device serves as a comprehensive Preset Manager for the **Osirus 2** and **Ostirus** DSP emulators (Access Virus emulations). It provides an intuitive interface to browse, filter, and recall presets from the emulator's banks directly within Ableton Live, streamlining your workflow.
